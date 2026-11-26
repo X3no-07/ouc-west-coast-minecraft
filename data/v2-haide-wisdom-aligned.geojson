@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": null,
+      "properties": {
+        "name": "海德楼",
+        "building": "university",
+        "building:levels": 5,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352135; OUC Haide College, 2026-04; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://haide.ouc.edu.cn/2026/0430/c19616a525475/page.htm",
+        "geometry_status": "OSM outline; north wing transition estimated from published 2024 plan",
+        "replace_ids": [
+          "1524352135"
+        ],
+        "alignment_angle_deg": 6.375,
+        "alignment_group": "海德楼",
+        "note": "2024-04-13 二期四项目规划批前公告报道（规划方案，非建成记录）：海德学院楼位于融合路西、大学十一路北，40897㎡，现代风格。位置与用地按该报道文字，几何保持 v1。",
+        "source_urls": [
+          "https://www.laitimes.com/en/article/6jvys_7089g.html"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028764914,
+              35.773807236
+            ],
+            [
+              120.028764914,
+              35.774418894
+            ],
+            [
+              120.028166061,
+              35.774418894
+            ],
+            [
+              120.028166061,
+              35.774346935
+            ],
+            [
+              120.028631836,
+              35.774346935
+            ],
+            [
+              120.028631836,
+              35.774131055
+            ],
+            [
+              120.028077342,
+              35.774131055
+            ],
+            [
+              120.028077342,
+              35.773807236
+            ],
+            [
+              120.028764914,
+              35.773807236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": null,
+      "properties": {
+        "name": "海德楼北翼",
+        "building": "university",
+        "building:levels": 2,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352135; OUC Haide College, 2026-04; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://haide.ouc.edu.cn/2026/0430/c19616a525475/page.htm",
+        "geometry_status": "2F shown on plan; approximate division within OSM outline",
+        "alignment_angle_deg": 6.375,
+        "alignment_group": "海德楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028764914,
+              35.774418894
+            ],
+            [
+              120.028764914,
+              35.774562814
+            ],
+            [
+              120.028166061,
+              35.774562814
+            ],
+            [
+              120.028166061,
+              35.774418894
+            ],
+            [
+              120.028764914,
+              35.774418894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": null,
+      "properties": {
+        "name": "智慧海洋楼",
+        "building": "university",
+        "building:levels": 7,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352137; 2025 Qingdao construction tender; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "height": 32.73,
+        "source_url": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/171927-5021-0-0-0/2e200faf-a64c-4eab-a363-8757fdd5c159-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+        "geometry_status": "OSM tower outline; approximate atrium opening from published 2024 plan",
+        "replace_ids": [
+          "1524352137"
+        ],
+        "alignment_angle_deg": 7.267,
+        "alignment_group": "智慧海洋楼",
+        "note": "2024-04-13 二期四项目规划批前公告报道（规划方案，非建成记录）：智慧海洋楼位于融合路东、大学十一路北，63426㎡，与海德风格相同。位置与用地按该报道文字，几何保持 v1。",
+        "source_urls": [
+          "https://www.laitimes.com/en/article/6jvys_7089g.html"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.030206597,
+              35.772089196
+            ],
+            [
+              120.029341587,
+              35.772089196
+            ],
+            [
+              120.029341587,
+              35.771378593
+            ],
+            [
+              120.030206597,
+              35.771378593
+            ],
+            [
+              120.030206597,
+              35.772089196
+            ]
+          ],
+          [
+            [
+              120.029552294,
+              35.771558492
+            ],
+            [
+              120.029552294,
+              35.771837337
+            ],
+            [
+              120.02996262,
+              35.771837337
+            ],
+            [
+              120.02996262,
+              35.771558492
+            ],
+            [
+              120.029552294,
+              35.771558492
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": null,
+      "properties": {
+        "name": "智慧海洋楼东翼",
+        "building": "university",
+        "building:levels": 2,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352137; 2025 Qingdao construction tender; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/171927-5021-0-0-0/2e200faf-a64c-4eab-a363-8757fdd5c159-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+        "geometry_status": "Approximate 2F annex from registered 2024 plan",
+        "alignment_angle_deg": 7.267,
+        "alignment_group": "智慧海洋楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.030628011,
+              35.771990251
+            ],
+            [
+              120.030450574,
+              35.771990251
+            ],
+            [
+              120.030450574,
+              35.771486533
+            ],
+            [
+              120.030217686,
+              35.771486533
+            ],
+            [
+              120.030217686,
+              35.771369598
+            ],
+            [
+              120.030195507,
+              35.771369598
+            ],
+            [
+              120.030195507,
+              35.771360603
+            ],
+            [
+              120.030628011,
+              35.771360603
+            ],
+            [
+              120.030628011,
+              35.771990251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": null,
+      "properties": {
+        "name": "智慧海洋楼东北翼",
+        "building": "university",
+        "building:levels": 1,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352137; 2025 Qingdao construction tender; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/171927-5021-0-0-0/2e200faf-a64c-4eab-a363-8757fdd5c159-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+        "geometry_status": "Approximate 1F annex from registered 2024 plan",
+        "alignment_angle_deg": 7.267,
+        "alignment_group": "智慧海洋楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.030628011,
+              35.772161156
+            ],
+            [
+              120.030184417,
+              35.772161156
+            ],
+            [
+              120.030184417,
+              35.772089196
+            ],
+            [
+              120.030206597,
+              35.772089196
+            ],
+            [
+              120.030206597,
+              35.771990251
+            ],
+            [
+              120.030439484,
+              35.771990251
+            ],
+            [
+              120.030628011,
+              35.771990251
+            ],
+            [
+              120.030628011,
+              35.772161156
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "name": "OUC West Coast Info North Building",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "info-north-1524352141",
+      "properties": {
+        "name": "信息北楼（原电子信息楼）",
+        "source": "OpenStreetMap way 1524352141; 信息北楼公开招标设计资料",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524352141"
+        ],
+        "building": "university",
+        "building:levels": 5,
+        "roof:shape": "flat",
+        "roof:colour": "#8F3D2F",
+        "geometry_basis": "OSM 原轮廓，按楼组对齐到游戏 X/Z 网格（见 alignment_angle_deg）",
+        "replace_ids": [
+          1524352141
+        ],
+        "part": "主楼",
+        "height": "24",
+        "alignment_angle_deg": 7.596,
+        "alignment_group": "信息北楼",
+        "note": "原名电子信息楼：2020-04-21 封顶报道（校区首个封顶单体，1.8亿元、24500㎡，预计2021年竣工）与 2019-09-16 一期单体介绍（文化谷以北、学习综合体西北，同济设计）。几何保持 v1 的 OSM 轮廓；屋顶/外墙/开窗无照片来源，全部标估算。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.024994359,
+              35.774364925
+            ],
+            [
+              120.024994359,
+              35.77410407
+            ],
+            [
+              120.025526673,
+              35.77410407
+            ],
+            [
+              120.025526673,
+              35.774364925
+            ],
+            [
+              120.024994359,
+              35.774364925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "info-north-1524352142",
+      "properties": {
+        "name": "信息北楼（原电子信息楼）",
+        "source": "OpenStreetMap way 1524352142; 信息北楼公开招标设计资料",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524352142"
+        ],
+        "building": "university",
+        "building:levels": 3,
+        "roof:shape": "flat",
+        "roof:colour": "#8F3D2F",
+        "geometry_basis": "OSM 原轮廓，按楼组对齐到游戏 X/Z 网格（见 alignment_angle_deg）",
+        "replace_ids": [
+          1524352142
+        ],
+        "part": "西翼",
+        "alignment_angle_deg": 7.596,
+        "alignment_group": "信息北楼",
+        "note": "原名电子信息楼：2020-04-21 封顶报道（校区首个封顶单体，1.8亿元、24500㎡，预计2021年竣工）与 2019-09-16 一期单体介绍（文化谷以北、学习综合体西北，同济设计）。几何保持 v1 的 OSM 轮廓；屋顶/外墙/开窗无照片来源，全部标估算。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.024639484,
+              35.774580804
+            ],
+            [
+              120.024850191,
+              35.774580804
+            ],
+            [
+              120.024850191,
+              35.77410407
+            ],
+            [
+              120.024639484,
+              35.77410407
+            ],
+            [
+              120.024639484,
+              35.774580804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "info-north-1524352143",
+      "properties": {
+        "name": "信息北楼（原电子信息楼）",
+        "source": "OpenStreetMap way 1524352143; 信息北楼公开招标设计资料",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524352143"
+        ],
+        "building": "university",
+        "building:levels": 3,
+        "roof:shape": "flat",
+        "roof:colour": "#8F3D2F",
+        "geometry_basis": "OSM 原轮廓，按楼组对齐到游戏 X/Z 网格（见 alignment_angle_deg）",
+        "replace_ids": [
+          1524352143
+        ],
+        "part": "红顶长翼",
+        "alignment_angle_deg": 7.596,
+        "alignment_group": "信息北楼",
+        "note": "原名电子信息楼：2020-04-21 封顶报道（校区首个封顶单体，1.8亿元、24500㎡，预计2021年竣工）与 2019-09-16 一期单体介绍（文化谷以北、学习综合体西北，同济设计）。几何保持 v1 的 OSM 轮廓；屋顶/外墙/开窗无照片来源，全部标估算。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.025426864,
+              35.774742714
+            ],
+            [
+              120.024639484,
+              35.774742714
+            ],
+            [
+              120.024639484,
+              35.774589799
+            ],
+            [
+              120.025426864,
+              35.774589799
+            ],
+            [
+              120.025426864,
+              35.774742714
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

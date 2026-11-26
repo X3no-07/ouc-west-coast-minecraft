@@ -1,0 +1,32 @@
+中国海洋大学西海岸校区 v2 · ODA 转换比对备忘
+================================================
+日期：2026-11-27（北京时间）
+方法：PC 上 winget 安装 ODA File Converter 27.10.0（ODA.ODAFileConverter），
+把 outputs/OUC-West-Coast-2021-Site-Plan.dwg（1,902,214 字节，AC1027，
+SHA256 49da690a…ff0ce）转 DXF，输出到 work\ouc-campus\oda-out\。
+
+结果：
+- 转换成功：OUC-West-Coast-2021-Site-Plan.dxf，9,509,509 字节，
+  SHA256 90e59929904dfe09a3b7e008b11ceb2c9ed97e5365d6f72750b78f9746634f8d。
+- 对照 master-plan-2021.dxf（9,317,017 字节，
+  SHA256 32cc866b202bc25f0b9f9241a21e0955b5591b412fcb184fd7ff35cd839ca084，
+  与 v2-site-plan-report.txt 记录一致）。
+
+逐项比对（ezdxf 多重集比对）：
+- 版本：同为 AC1027。
+- 图层：110 个，图层名完全相同。
+- 范围：$EXTMIN/$EXTMAX 完全相同（x 497826.81~505129.78，y 3958038.00~3963269.76）。
+- LINE：7999 条，几何多重集相同，零差异。
+- LWPOLYLINE：3265 条（去重几何 3153 条），多重集相同，零差异。
+- TEXT：647 条，文字多重集相同，零差异。
+- INSERT：714 个，名称+插入点多重集相同，零差异。
+- CIRCLE/ARC：33/594 个，几何多重集相同，零差异。
+- 唯一差别（导出编码，不影响内容）：
+  a) ODA 版多 71 个 ACAD_PROXY_ENTITY（Z-BLDG-ROOF-TEXT 54、G-ANNO-CODT 9、
+     G-ANNO-DIMS 8），为注记层自定义对象在 ODA 导出中的代理表示；
+  b) 原 DXF 的 19 个 HATCH 填充（PUB_HATCH 12、硬地 2、A-PARK-CARS 2 等）
+     在 ODA 版中未以 HATCH 形式写出。
+  两者实体总数差 71（ODA 13376 / 原 DXF 13305）即由此两项解释。
+
+结论：DWG 与 master-plan-2021.dxf 同源。v2-site-plan-report.txt“以 DXF 为准”
+的全部结论成立；配准卡点（分区拼接错位）不受影响，仍按报告第 6.3 节处理。

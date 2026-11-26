@@ -1,0 +1,14 @@
+{
+  "changes": [
+    "info-north: name -> 信息北楼（原电子信息楼）, note added (sources 3, 4); geometry unchanged",
+    "info-north: name -> 信息北楼（原电子信息楼）, note added (sources 3, 4); geometry unchanged",
+    "learning: 主楼 += 创想之舟 epaper URL + 立面文字 note (source 6); floors per v3 data (8/5/5/4/4/2); geometry unchanged",
+    "learning: 主楼 += 创想之舟 epaper URL + 立面文字 note (source 6); floors per v3 data (8/5/5/4/4/2); geometry unchanged",
+    "haide-wisdom: 海德楼/智慧海洋楼 += 2024规划 note + laitimes URL (source 1, planning not as-built); geometry unchanged",
+    "haide-wisdom: 海德楼/智慧海洋楼 += 2024规划 note + laitimes URL (source 1, planning not as-built); geometry unchanged",
+    "dorms: 望海苑二期宿舍x3 + 西区二期食堂 += building:colour #E3C878 (黄墙) + note (source 1; correspondence inferred, 估算); shape unchanged",
+    "dorms: 望海苑二期宿舍x3 + 西区二期食堂 += building:colour #E3C878 (黄墙) + note (source 1; correspondence inferred, 估算); shape unchanged",
+    "osm-aligned-v2: ways 1524352139/1524352140 name -> 信息南楼（原计算机楼） (sources 3, 4); geometry unchanged",
+    "dorms colour retry: building:colour #E3C878 -> #EAB308 (pale yellow mapped only to cream/sandstone in the first v2 build, no yellow blocks in mid-wall samples); note updated; full rebuild"
+  ]
+}

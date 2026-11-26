@@ -1,0 +1,1155 @@
+{
+  "type": "FeatureCollection",
+  "name": "OUC West Coast dormitories and dining",
+  "attribution": "(c) OpenStreetMap contributors, ODbL",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1524718882,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑东侧院落宿舍",
+        "name_kind": "descriptive",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718882",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718882
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 0.261,
+        "alignment_group": "望海苑东侧院落宿舍"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.018717495,
+              35.777351256
+            ],
+            [
+              120.018717495,
+              35.776793568
+            ],
+            [
+              120.018928203,
+              35.776793568
+            ],
+            [
+              120.018928203,
+              35.777198342
+            ],
+            [
+              120.019416157,
+              35.777198342
+            ],
+            [
+              120.019416157,
+              35.776820553
+            ],
+            [
+              120.019615774,
+              35.776820553
+            ],
+            [
+              120.019615774,
+              35.777351256
+            ],
+            [
+              120.018717495,
+              35.777351256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718883,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑西侧院落宿舍",
+        "name_kind": "descriptive",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718883",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718883
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 0.511,
+        "alignment_group": "望海苑西侧院落宿舍"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.017730497,
+              35.777369246
+            ],
+            [
+              120.017730497,
+              35.776820553
+            ],
+            [
+              120.017974474,
+              35.776820553
+            ],
+            [
+              120.017974474,
+              35.777207337
+            ],
+            [
+              120.018551147,
+              35.777207337
+            ],
+            [
+              120.018551147,
+              35.777369246
+            ],
+            [
+              120.017730497,
+              35.777369246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718884,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑南侧宿舍（东）",
+        "name_kind": "descriptive",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718884",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718884
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 1.005,
+        "alignment_group": "望海苑南侧宿舍（东）"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.018728585,
+              35.776577688
+            ],
+            [
+              120.018728585,
+              35.776442764
+            ],
+            [
+              120.019560325,
+              35.776442764
+            ],
+            [
+              120.019560325,
+              35.776577688
+            ],
+            [
+              120.018728585,
+              35.776577688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718885,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑南侧宿舍（西）",
+        "name_kind": "descriptive",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718885",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718885
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 1.043,
+        "alignment_group": "望海苑南侧宿舍（西）"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.017741587,
+              35.776667638
+            ],
+            [
+              120.017741587,
+              35.776487739
+            ],
+            [
+              120.018562237,
+              35.776487739
+            ],
+            [
+              120.018562237,
+              35.776667638
+            ],
+            [
+              120.017741587,
+              35.776667638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718886,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑二期宿舍（西）",
+        "name_kind": "descriptive",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718886",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/152808-5021-0-0-0/878faf34-4e74-4be3-bd88-48a2a6ba9857-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_west_design_estimate",
+        "replace_ids": [
+          1524718886
+        ],
+        "construction_phase": 2,
+        "building:levels:upper_bound": 8,
+        "height:upper_bound": 29.1,
+        "building:colour": "#EAB308",
+        "roof:colour": "#9D513A",
+        "roof:material": "roof_tiles",
+        "style_evidence": "2024 permit board explicitly specifies red roof tiles and yellow walls. Colours approximate the rendered hues. The roof form simplifies the visible sloped end returns and repeated gables.",
+        "roof:shape": "hipped",
+        "alignment_angle_deg": 0.346,
+        "alignment_group": "望海苑二期宿舍（西）",
+        "note": "2024-04-13 规划报道中的西区学生宿舍及食堂（高峪路北、拥军路西，23428㎡，欧式风格、红瓦黄墙）：按路名方位与建设批次推断对应本组二期宿舍与食堂，未经官方逐栋对应，标估算。红瓦以 finish 红陶土统一（plan-v2.json）；黄墙以 building:colour #EAB308 交 Arnis 渲染（淡黄 #E3C878 实测只映射到米白/砂岩系，未出黄色，故改饱和黄色重建，须实测复核）。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.017830306,
+              35.777890955
+            ],
+            [
+              120.017830306,
+              35.777711055
+            ],
+            [
+              120.018584417,
+              35.777711055
+            ],
+            [
+              120.018584417,
+              35.777890955
+            ],
+            [
+              120.017830306,
+              35.777890955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718887,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑二期宿舍（中）",
+        "name_kind": "descriptive",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718887",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/152808-5021-0-0-0/878faf34-4e74-4be3-bd88-48a2a6ba9857-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_west_design_estimate",
+        "replace_ids": [
+          1524718887
+        ],
+        "construction_phase": 2,
+        "building:levels:upper_bound": 8,
+        "height:upper_bound": 29.1,
+        "building:colour": "#EAB308",
+        "roof:colour": "#9D513A",
+        "roof:material": "roof_tiles",
+        "style_evidence": "2024 permit board explicitly specifies red roof tiles and yellow walls. Colours approximate the rendered hues. The roof form simplifies the visible sloped end returns and repeated gables.",
+        "roof:shape": "hipped",
+        "alignment_angle_deg": 0.348,
+        "alignment_group": "望海苑二期宿舍（中）",
+        "note": "2024-04-13 规划报道中的西区学生宿舍及食堂（高峪路北、拥军路西，23428㎡，欧式风格、红瓦黄墙）：按路名方位与建设批次推断对应本组二期宿舍与食堂，未经官方逐栋对应，标估算。红瓦以 finish 红陶土统一（plan-v2.json）；黄墙以 building:colour #EAB308 交 Arnis 渲染（淡黄 #E3C878 实测只映射到米白/砂岩系，未出黄色，故改饱和黄色重建，须实测复核）。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.018695315,
+              35.777890955
+            ],
+            [
+              120.018695315,
+              35.777711055
+            ],
+            [
+              120.019560325,
+              35.777711055
+            ],
+            [
+              120.019560325,
+              35.777890955
+            ],
+            [
+              120.018695315,
+              35.777890955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718888,
+      "properties": {
+        "building": "apartments",
+        "name": "望海苑二期宿舍（东）",
+        "name_kind": "descriptive",
+        "building:levels": 8,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718888",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/152808-5021-0-0-0/878faf34-4e74-4be3-bd88-48a2a6ba9857-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_west_design_estimate",
+        "replace_ids": [
+          1524718888
+        ],
+        "construction_phase": 2,
+        "building:levels:upper_bound": 8,
+        "height:upper_bound": 29.1,
+        "building:colour": "#EAB308",
+        "roof:colour": "#9D513A",
+        "roof:material": "roof_tiles",
+        "style_evidence": "2024 permit board explicitly specifies red roof tiles and yellow walls. Colours approximate the rendered hues. The roof form simplifies the visible sloped end returns and repeated gables.",
+        "roof:shape": "hipped",
+        "alignment_angle_deg": -0.126,
+        "alignment_group": "望海苑二期宿舍（东）",
+        "note": "2024-04-13 规划报道中的西区学生宿舍及食堂（高峪路北、拥军路西，23428㎡，欧式风格、红瓦黄墙）：按路名方位与建设批次推断对应本组二期宿舍与食堂，未经官方逐栋对应，标估算。红瓦以 finish 红陶土统一（plan-v2.json）；黄墙以 building:colour #EAB308 交 Arnis 渲染（淡黄 #E3C878 实测只映射到米白/砂岩系，未出黄色，故改饱和黄色重建，须实测复核）。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.019771033,
+              35.77788196
+            ],
+            [
+              120.019771033,
+              35.77770206
+            ],
+            [
+              120.020469694,
+              35.77770206
+            ],
+            [
+              120.020469694,
+              35.77788196
+            ],
+            [
+              120.019771033,
+              35.77788196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718889,
+      "properties": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "望海餐厅",
+        "name_kind": "mapped",
+        "building:levels": 3,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718889",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "published_operating_floors",
+        "replace_ids": [
+          1524718889
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": -0.07,
+        "alignment_group": "望海餐厅"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.019826482,
+              35.776910503
+            ],
+            [
+              120.019826482,
+              35.776451759
+            ],
+            [
+              120.020392065,
+              35.776451759
+            ],
+            [
+              120.020392065,
+              35.776910503
+            ],
+            [
+              120.019826482,
+              35.776910503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718890,
+      "properties": {
+        "building": "yes",
+        "name": "西区二期食堂",
+        "name_kind": "descriptive",
+        "building:levels": 3,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718890",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/152808-5021-0-0-0/878faf34-4e74-4be3-bd88-48a2a6ba9857-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_west_canteen_design",
+        "replace_ids": [
+          1524718890
+        ],
+        "construction_phase": 2,
+        "amenity": "restaurant",
+        "height": 15,
+        "building:colour": "#EAB308",
+        "roof:colour": "#9D513A",
+        "roof:material": "roof_tiles",
+        "style_evidence": "2024 permit board explicitly specifies red roof tiles and yellow walls. Colours approximate the rendered hues. The canteen render shows a large central deck and a surrounding sloped tiled band.",
+        "alignment_angle_deg": -0.354,
+        "alignment_group": "西区二期食堂",
+        "note": "2024-04-13 规划报道中的西区学生宿舍及食堂（高峪路北、拥军路西，23428㎡，欧式风格、红瓦黄墙）：按路名方位与建设批次推断对应本组二期宿舍与食堂，未经官方逐栋对应，标估算。红瓦以 finish 红陶土统一（plan-v2.json）；黄墙以 building:colour #EAB308 交 Arnis 渲染（淡黄 #E3C878 实测只映射到米白/砂岩系，未出黄色，故改饱和黄色重建，须实测复核）。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.019859751,
+              35.777495176
+            ],
+            [
+              120.019859751,
+              35.777063417
+            ],
+            [
+              120.020414245,
+              35.777063417
+            ],
+            [
+              120.020414245,
+              35.777495176
+            ],
+            [
+              120.019859751,
+              35.777495176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718900,
+      "properties": {
+        "building": "commercial",
+        "name": "听海空间",
+        "name_kind": "mapped",
+        "building:levels": 1,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718900",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_commercial_rule",
+        "replace_ids": [
+          1524718900
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": -1.285,
+        "alignment_group": "听海空间"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027700287,
+              35.776883518
+            ],
+            [
+              120.027700287,
+              35.776685628
+            ],
+            [
+              120.027988623,
+              35.776685628
+            ],
+            [
+              120.028143881,
+              35.776685628
+            ],
+            [
+              120.028143881,
+              35.776883518
+            ],
+            [
+              120.027700287,
+              35.776883518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718901,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑7号楼",
+        "name_kind": "mapped",
+        "building:levels": 10,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718901",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_east_elevation_estimate",
+        "replace_ids": [
+          1524718901
+        ],
+        "construction_phase": 2,
+        "roof:shape": "flat",
+        "building:colour": "#BDA083",
+        "style_evidence": "2024 permit board drawings show stepped roof terraces and warm muted tan upper storeys over a light base. One representative wall colour is used.",
+        "alignment_angle_deg": 1.285,
+        "alignment_group": "听海苑7+8号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.029297228,
+              35.777872965
+            ],
+            [
+              120.02829914,
+              35.777872965
+            ],
+            [
+              120.02829914,
+              35.777675075
+            ],
+            [
+              120.028421128,
+              35.777639095
+            ],
+            [
+              120.029297228,
+              35.777639095
+            ],
+            [
+              120.029297228,
+              35.777872965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718902,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑8号楼",
+        "name_kind": "mapped",
+        "building:levels": 10,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718902",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_east_elevation_estimate",
+        "replace_ids": [
+          1524718902
+        ],
+        "construction_phase": 2,
+        "roof:shape": "flat",
+        "building:colour": "#BDA083",
+        "style_evidence": "2024 permit board drawings show stepped roof terraces and warm muted tan upper storeys over a light base. One representative wall colour is used.",
+        "alignment_angle_deg": 1.285,
+        "alignment_group": "听海苑7+8号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.02743413,
+              35.777801005
+            ],
+            [
+              120.02743413,
+              35.777657085
+            ],
+            [
+              120.027877725,
+              35.777657085
+            ],
+            [
+              120.028055163,
+              35.777558141
+            ],
+            [
+              120.02829914,
+              35.777558141
+            ],
+            [
+              120.02829914,
+              35.777783015
+            ],
+            [
+              120.028110612,
+              35.777783015
+            ],
+            [
+              120.027922084,
+              35.777872965
+            ],
+            [
+              120.027522849,
+              35.777872965
+            ],
+            [
+              120.027522849,
+              35.777801005
+            ],
+            [
+              120.02743413,
+              35.777801005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718903,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑4号楼",
+        "name_kind": "mapped",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718903",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718903
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": -2.17,
+        "alignment_group": "听海苑4号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.029252868,
+              35.777333266
+            ],
+            [
+              120.028476577,
+              35.777333266
+            ],
+            [
+              120.028332409,
+              35.777333266
+            ],
+            [
+              120.028410038,
+              35.777162362
+            ],
+            [
+              120.029252868,
+              35.777162362
+            ],
+            [
+              120.029252868,
+              35.777333266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718904,
+      "properties": {
+        "building": "apartments",
+        "layer": "1",
+        "name": "听海苑5号楼",
+        "name_kind": "mapped",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718904",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718904
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 0.0,
+        "alignment_group": "__fixed0__:听海苑5号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028310229,
+              35.777306281
+            ],
+            [
+              120.027910994,
+              35.777162362
+            ],
+            [
+              120.027489579,
+              35.777162362
+            ],
+            [
+              120.027378681,
+              35.777027437
+            ],
+            [
+              120.02742304,
+              35.776991457
+            ],
+            [
+              120.027955354,
+              35.776991457
+            ],
+            [
+              120.028398948,
+              35.777162362
+            ],
+            [
+              120.028310229,
+              35.777306281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718905,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑6号楼",
+        "name_kind": "mapped",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718905",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718905
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 0.0,
+        "alignment_group": "__fixed0__:听海苑6号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027367591,
+              35.777027437
+            ],
+            [
+              120.0274674,
+              35.777171357
+            ],
+            [
+              120.027023805,
+              35.777423216
+            ],
+            [
+              120.026458222,
+              35.777423216
+            ],
+            [
+              120.026458222,
+              35.777243317
+            ],
+            [
+              120.027001625,
+              35.777243317
+            ],
+            [
+              120.027367591,
+              35.777027437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718906,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑1号楼",
+        "name_kind": "mapped",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718906",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718906
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 1.833,
+        "alignment_group": "听海苑1+3号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028986711,
+              35.777045427
+            ],
+            [
+              120.028986711,
+              35.776775578
+            ],
+            [
+              120.028476577,
+              35.776775578
+            ],
+            [
+              120.028476577,
+              35.776586683
+            ],
+            [
+              120.029197419,
+              35.776586683
+            ],
+            [
+              120.029197419,
+              35.777045427
+            ],
+            [
+              120.028986711,
+              35.777045427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718908,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑3号楼",
+        "name_kind": "mapped",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718908",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718908
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 1.833,
+        "alignment_group": "听海苑1+3号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027367591,
+              35.776865528
+            ],
+            [
+              120.027367591,
+              35.776379799
+            ],
+            [
+              120.027578298,
+              35.776379799
+            ],
+            [
+              120.027578298,
+              35.776865528
+            ],
+            [
+              120.027367591,
+              35.776865528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718907,
+      "properties": {
+        "building": "apartments",
+        "layer": "1",
+        "name": "听海苑2号楼",
+        "name_kind": "mapped",
+        "building:levels": 6,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718907",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm"
+        ],
+        "height_basis": "phase_1_dorm_rule",
+        "replace_ids": [
+          1524718907
+        ],
+        "construction_phase": 1,
+        "alignment_angle_deg": 0.0,
+        "alignment_group": "__fixed0__:听海苑2号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028387859,
+              35.776721608
+            ],
+            [
+              120.027999713,
+              35.776568693
+            ],
+            [
+              120.027578298,
+              35.776568693
+            ],
+            [
+              120.027578298,
+              35.776406784
+            ],
+            [
+              120.028044073,
+              35.776406784
+            ],
+            [
+              120.028465488,
+              35.776577688
+            ],
+            [
+              120.028387859,
+              35.776721608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718909,
+      "properties": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "听海餐厅",
+        "name_kind": "mapped",
+        "building:levels": 2,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718909",
+          "https://xhaxqyg.ouc.edu.cn/2024/0703/c26866a479491/page.htm",
+          "https://news.ouc.edu.cn/2022/1002/c86a110353/page.htm"
+        ],
+        "height_basis": "published_operating_floors",
+        "replace_ids": [
+          1524718909
+        ],
+        "construction_phase": 1,
+        "roof:shape": "flat",
+        "building:colour": "#705242",
+        "style_evidence": "2022 opening photograph shows a flat roofline and a dark brown slatted upper exterior over pale ground-floor supports.",
+        "alignment_angle_deg": 1.19,
+        "alignment_group": "听海餐厅"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026458222,
+              35.776973467
+            ],
+            [
+              120.026458222,
+              35.776469749
+            ],
+            [
+              120.027012715,
+              35.776469749
+            ],
+            [
+              120.027012715,
+              35.776883518
+            ],
+            [
+              120.026824187,
+              35.776973467
+            ],
+            [
+              120.026458222,
+              35.776973467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1524718910,
+      "properties": {
+        "building": "apartments",
+        "name": "听海苑9号楼",
+        "name_kind": "mapped",
+        "building:levels": 10,
+        "source": "OpenStreetMap contributors / government planning and acceptance / China Ocean University operational notice",
+        "source_urls": [
+          "https://www.openstreetmap.org/way/1524718910",
+          "https://www.xihaian.gov.cn/zwgk/bmgk/cxjs/gkml/zdgz/xfys/202508/t20250801_9953043.shtml",
+          "https://epaper.guanhai.com.cn/conpaper/qdrb/resfile/2024-04-10/06/qdrb2024041006.pdf",
+          "https://house.qingdaonews.com/wap/2024-04/13/content_23559777.htm"
+        ],
+        "height_basis": "phase_2_east_elevation_estimate",
+        "replace_ids": [
+          1524718910
+        ],
+        "construction_phase": 2,
+        "roof:shape": "flat",
+        "building:colour": "#BDA083",
+        "style_evidence": "2024 permit board drawings show stepped roof terraces and warm muted tan upper storeys over a light base. One representative wall colour is used.",
+        "alignment_angle_deg": -0.17,
+        "alignment_group": "听海苑9号楼"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027234512,
+              35.77788196
+            ],
+            [
+              120.026447132,
+              35.77788196
+            ],
+            [
+              120.026447132,
+              35.77766608
+            ],
+            [
+              120.027234512,
+              35.77766608
+            ],
+            [
+              120.027234512,
+              35.77788196
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
