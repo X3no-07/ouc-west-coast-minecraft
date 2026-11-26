@@ -1,0 +1,638 @@
+{
+  "type": "FeatureCollection",
+  "name": "OUC West Coast Learning Complex",
+  "attribution": "(c) OpenStreetMap contributors, ODbL",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "learning-skylight",
+      "properties": {
+        "name": "学习综合体·图书馆中庭采光顶",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 8,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#a5cbdc",
+        "height_basis": "published floor count; skylight depth simplified",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "building:min_level": 7,
+        "roof:material": "glass",
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026369503,
+              35.773177588
+            ],
+            [
+              120.026369503,
+              35.773456432
+            ],
+            [
+              120.026946176,
+              35.773456432
+            ],
+            [
+              120.026946176,
+              35.773177588
+            ],
+            [
+              120.026369503,
+              35.773177588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-main",
+      "properties": {
+        "name": "学习综合体·图书馆主楼",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 8,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#d5d6d3",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "replace_ids": [
+          "1412220104"
+        ],
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027301052,
+              35.772925729
+            ],
+            [
+              120.026125526,
+              35.772925729
+            ],
+            [
+              120.026125526,
+              35.773708291
+            ],
+            [
+              120.027301052,
+              35.773708291
+            ],
+            [
+              120.027301052,
+              35.773006683
+            ],
+            [
+              120.027301052,
+              35.772925729
+            ]
+          ],
+          [
+            [
+              120.026946176,
+              35.773456432
+            ],
+            [
+              120.026369503,
+              35.773456432
+            ],
+            [
+              120.026369503,
+              35.773177588
+            ],
+            [
+              120.026946176,
+              35.773177588
+            ],
+            [
+              120.026946176,
+              35.773456432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-north_west",
+      "properties": {
+        "name": "学习综合体·北楼（西侧）",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 5,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#d5d6d3",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026103346,
+              35.773852211
+            ],
+            [
+              120.026103346,
+              35.774203015
+            ],
+            [
+              120.026491491,
+              35.774203015
+            ],
+            [
+              120.026491491,
+              35.773852211
+            ],
+            [
+              120.026103346,
+              35.773852211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-south_west",
+      "properties": {
+        "name": "学习综合体·南楼（西侧）",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 5,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#d5d6d3",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026103346,
+              35.77244
+            ],
+            [
+              120.026103346,
+              35.772781809
+            ],
+            [
+              120.026502581,
+              35.772781809
+            ],
+            [
+              120.026502581,
+              35.77244
+            ],
+            [
+              120.026103346,
+              35.77244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-north_east",
+      "properties": {
+        "name": "学习综合体·北楼（东侧低区）",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 4,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#d5d6d3",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026491491,
+              35.773987136
+            ],
+            [
+              120.026491491,
+              35.774203015
+            ],
+            [
+              120.026103346,
+              35.774203015
+            ],
+            [
+              120.026103346,
+              35.774256985
+            ],
+            [
+              120.026746558,
+              35.774256985
+            ],
+            [
+              120.02741195,
+              35.774256985
+            ],
+            [
+              120.02741195,
+              35.773987136
+            ],
+            [
+              120.026491491,
+              35.773987136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-south_east",
+      "properties": {
+        "name": "学习综合体·南楼（东侧低区）",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 4,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#d5d6d3",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026103346,
+              35.77244
+            ],
+            [
+              120.026103346,
+              35.77238603
+            ],
+            [
+              120.026757648,
+              35.77238603
+            ],
+            [
+              120.02743413,
+              35.77238603
+            ],
+            [
+              120.02743413,
+              35.772637889
+            ],
+            [
+              120.026502581,
+              35.772637889
+            ],
+            [
+              120.026502581,
+              35.77244
+            ],
+            [
+              120.026103346,
+              35.77244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-north_west_link",
+      "properties": {
+        "name": "学习综合体·西北连廊",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 2,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#b7babb",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "building:min_level": 1,
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026125526,
+              35.773708291
+            ],
+            [
+              120.026125526,
+              35.773699296
+            ],
+            [
+              120.026103346,
+              35.773699296
+            ],
+            [
+              120.026103346,
+              35.773852211
+            ],
+            [
+              120.026502581,
+              35.773852211
+            ],
+            [
+              120.026502581,
+              35.773708291
+            ],
+            [
+              120.026125526,
+              35.773708291
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-north_east_link",
+      "properties": {
+        "name": "学习综合体·东北连廊",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 2,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#b7babb",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "building:min_level": 1,
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027312141,
+              35.773879196
+            ],
+            [
+              120.027312141,
+              35.773699296
+            ],
+            [
+              120.027301052,
+              35.773699296
+            ],
+            [
+              120.027301052,
+              35.773708291
+            ],
+            [
+              120.027090344,
+              35.773708291
+            ],
+            [
+              120.027090344,
+              35.773897186
+            ],
+            [
+              120.026491491,
+              35.773897186
+            ],
+            [
+              120.026491491,
+              35.773987136
+            ],
+            [
+              120.02741195,
+              35.773987136
+            ],
+            [
+              120.02741195,
+              35.773879196
+            ],
+            [
+              120.027312141,
+              35.773879196
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-south_west_link",
+      "properties": {
+        "name": "学习综合体·西南连廊",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 2,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#b7babb",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "building:min_level": 1,
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.026114436,
+              35.772781809
+            ],
+            [
+              120.026114436,
+              35.772934724
+            ],
+            [
+              120.026136616,
+              35.772934724
+            ],
+            [
+              120.026136616,
+              35.772925729
+            ],
+            [
+              120.026502581,
+              35.772925729
+            ],
+            [
+              120.026502581,
+              35.772781809
+            ],
+            [
+              120.026114436,
+              35.772781809
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "learning-south_east_link",
+      "properties": {
+        "name": "学习综合体·东南连廊",
+        "source": "中国海洋大学公开总平面图 / 校方实景 / OpenStreetMap",
+        "source_urls": [
+          "https://youth.ouc.edu.cn/2021/0821/c1388a344316/page.htm",
+          "https://youth.ouc.edu.cn/_upload/article/files/9b/b3/d84cae684d61a43a7518cf250fff/4ccc7ab1-e4d0-4ec1-9089-14156519ad8c.zip",
+          "https://xhaxq.ouc.edu.cn/2022/0728/c10568a374734/page.htm",
+          "https://www.idesignawards.com/social/zoom.php?eid=9-52890-23",
+          "https://library.ouc.edu.cn/Home/Newsdetail/854",
+          "https://www.openstreetmap.org/way/1412220104"
+        ],
+        "building": "university",
+        "building:levels": 2,
+        "building:colour": "#d2d3d0",
+        "roof:shape": "flat",
+        "roof:colour": "#b7babb",
+        "height_basis": "published roof-plan floor counts and second-floor links",
+        "geometry_basis": "2021 roof plan fitted to current OSM envelope; approximate plan position",
+        "building:min_level": 1,
+        "alignment_angle_deg": 7.52,
+        "alignment_group": "学习综合体"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.027312141,
+              35.772637889
+            ],
+            [
+              120.027312141,
+              35.772925729
+            ],
+            [
+              120.027101434,
+              35.772925729
+            ],
+            [
+              120.027101434,
+              35.772727839
+            ],
+            [
+              120.026513671,
+              35.772727839
+            ],
+            [
+              120.026513671,
+              35.772655879
+            ],
+            [
+              120.026513671,
+              35.772637889
+            ],
+            [
+              120.027312141,
+              35.772637889
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

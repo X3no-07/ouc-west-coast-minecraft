@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海德楼",
+        "building": "university",
+        "building:levels": 5,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352135; OUC Haide College, 2026-04; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://haide.ouc.edu.cn/2026/0430/c19616a525475/page.htm",
+        "geometry_status": "OSM outline; north wing transition estimated from published 2024 plan",
+        "replace_ids": [
+          "1524352135"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028693516,
+              35.773774136
+            ],
+            [
+              120.028787955,
+              35.774393318
+            ],
+            [
+              120.028184964,
+              35.774427672
+            ],
+            [
+              120.028176651,
+              35.774373263
+            ],
+            [
+              120.028634215,
+              35.774327308
+            ],
+            [
+              120.028602292,
+              35.774118216
+            ],
+            [
+              120.028060043,
+              35.774172625
+            ],
+            [
+              120.028009831,
+              35.773842844
+            ],
+            [
+              120.028693516,
+              35.773774136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "海德楼北翼",
+        "building": "university",
+        "building:levels": 2,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352135; OUC Haide College, 2026-04; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://haide.ouc.edu.cn/2026/0430/c19616a525475/page.htm",
+        "geometry_status": "2F shown on plan; approximate division within OSM outline"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.028787955,
+              35.774393318
+            ],
+            [
+              120.028809237,
+              35.774532713
+            ],
+            [
+              120.028210015,
+              35.774592877
+            ],
+            [
+              120.028184964,
+              35.774427672
+            ],
+            [
+              120.028787955,
+              35.774393318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "智慧海洋楼",
+        "building": "university",
+        "building:levels": 7,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352137; 2025 Qingdao construction tender; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "height": 32.73,
+        "source_url": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/171927-5021-0-0-0/2e200faf-a64c-4eab-a363-8757fdd5c159-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+        "geometry_status": "OSM tower outline; approximate atrium opening from published 2024 plan",
+        "replace_ids": [
+          "1524352137"
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.0302589,
+              35.7720825
+            ],
+            [
+              120.0294006,
+              35.7721695
+            ],
+            [
+              120.0292772,
+              35.7714644
+            ],
+            [
+              120.030157,
+              35.7713643
+            ],
+            [
+              120.0302589,
+              35.7720825
+            ]
+          ],
+          [
+            [
+              120.029528614,
+              35.771630531
+            ],
+            [
+              120.029565142,
+              35.771902824
+            ],
+            [
+              120.0299753,
+              35.771855854
+            ],
+            [
+              120.029926622,
+              35.771583837
+            ],
+            [
+              120.029528614,
+              35.771630531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "智慧海洋楼东翼",
+        "building": "university",
+        "building:levels": 2,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352137; 2025 Qingdao construction tender; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/171927-5021-0-0-0/2e200faf-a64c-4eab-a363-8757fdd5c159-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+        "geometry_status": "Approximate 2F annex from registered 2024 plan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.030652751,
+              35.771940954
+            ],
+            [
+              120.030473997,
+              35.771963843
+            ],
+            [
+              120.030403885,
+              35.771456863
+            ],
+            [
+              120.030173724,
+              35.771482172
+            ],
+            [
+              120.030157,
+              35.7713643
+            ],
+            [
+              120.03013654,
+              35.771366628
+            ],
+            [
+              120.030135577,
+              35.771359348
+            ],
+            [
+              120.030557701,
+              35.771318385
+            ],
+            [
+              120.030652751,
+              35.771940954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "智慧海洋楼东北翼",
+        "building": "university",
+        "building:levels": 1,
+        "roof:shape": "flat",
+        "building:material": "concrete",
+        "building:colour": "#d9dcda",
+        "roof:colour": "#b4b7b2",
+        "source": "OpenStreetMap 1524352137; 2025 Qingdao construction tender; 2024 plan https://news.qingdaonews.com/wap/2024-04/13/content_23559720.htm",
+        "source_url": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/171927-5021-0-0-0/2e200faf-a64c-4eab-a363-8757fdd5c159-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+        "geometry_status": "Approximate 1F annex from registered 2024 plan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.030672072,
+              35.772110039
+            ],
+            [
+              120.030249856,
+              35.772154143
+            ],
+            [
+              120.030238311,
+              35.772084587
+            ],
+            [
+              120.0302589,
+              35.7720825
+            ],
+            [
+              120.030245189,
+              35.771985866
+            ],
+            [
+              120.030473563,
+              35.7719607
+            ],
+            [
+              120.030473997,
+              35.771963843
+            ],
+            [
+              120.030652751,
+              35.771940954
+            ],
+            [
+              120.030672072,
+              35.772110039
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
