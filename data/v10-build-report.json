@@ -1,0 +1,190 @@
+{
+ "world": "/home/hatch/workspace/minecraft-ouc/staging-v10/OUC-West-Coast-v10",
+ "base": "v9",
+ "note": "v10: south gate (sign wall + red 7x7 name + wings + flower bed + banner + forecourt) and learning-complex west facade (quartz + blue glass + nested portal) and west plaza repaved in large light-grey slabs. Real south gate is ~243 cells south of the map edge; gate built at the end of in-map service road 26.",
+ "gate": {
+  "wall": [
+   1197,
+   1248,
+   987,
+   988,
+   -49,
+   -41
+  ],
+  "wall_material": "minecraft:smooth_quartz",
+  "wall_top": "minecraft:quartz_block",
+  "text": {
+   "chars": [
+    "中",
+    "国",
+    "海",
+    "洋",
+    "大",
+    "学"
+   ],
+   "x0": 1199,
+   "y_top": -48,
+   "faces": {
+    "south": 989,
+    "north": 986
+   },
+   "material": "minecraft:red_concrete"
+  },
+  "flower_bed": [
+   1200,
+   990,
+   1245,
+   992
+  ],
+  "plaza": [
+   1190,
+   976,
+   1255,
+   995
+  ],
+  "banner": {
+   "z": 980,
+   "posts": [
+    1202,
+    1243
+   ],
+   "material": "minecraft:red_concrete",
+   "note": "no letters on banner"
+  },
+  "road26_terminus": "road 26 centreline ends at the gate plaza (z986); wall/flower bed south of it are the gate, not a road gap"
+ },
+ "learning_west": {
+  "podium": {
+   "x": 1152,
+   "y": [
+    -48,
+    -36
+   ],
+   "z": [
+    662,
+    734
+   ],
+   "bay": [
+    688,
+    708
+   ],
+   "bay_material": "minecraft:blue_stained_glass",
+   "strip": "2 blue glass + 2 quartz"
+  },
+  "tower": {
+   "x": 1157,
+   "y": [
+    -35,
+    -12
+   ],
+   "z": [
+    662,
+    734
+   ],
+   "fin": "minecraft:quartz_pillar",
+   "strip": "minecraft:blue_stained_glass",
+   "crown": "minecraft:smooth_quartz"
+  },
+  "portal": {
+   "frames": [
+    "x1157 z685-711 y-35..-16",
+    "x1158 z687-709 y-35..-18",
+    "x1159 z689-707 y-35..-20"
+   ],
+   "glass_bay": {
+    "x": 1160,
+    "z": [
+     689,
+     707
+    ],
+    "y": [
+     -35,
+     -19
+    ],
+    "material": "minecraft:blue_stained_glass"
+   }
+  },
+  "terrace": {
+   "x": [
+    1153,
+    1156
+   ],
+   "z": [
+    685,
+    711
+   ],
+   "y": -36,
+   "material": "minecraft:smooth_quartz"
+  },
+  "untouched": "east face, east entrance + 10 steps, north/south faces, roof, z655-661/z735-742 ends"
+ },
+ "west_plaza": {
+  "rect": [
+   1110,
+   660,
+   1150,
+   740
+  ],
+  "material": "minecraft:light_gray_concrete",
+  "joint": "minecraft:smooth_stone every 10 cells",
+  "level_y": -47,
+  "note": "plaza is a raised platform, paving top y=-47 (not -49); first build run skipped it, repaved by fix-up"
+ },
+ "totals": {
+  "plaza_paved_grey": 965,
+  "plaza_veg_cleared": 459,
+  "plaza_filled_dip": 134,
+  "road26_relaid": 30,
+  "edge_line": 52,
+  "railing_post": 13,
+  "railing_pane": 46,
+  "wall_quartz": 936,
+  "chars_south": 109,
+  "chars_north": 109,
+  "flower_bed_dirt": 138,
+  "flower_bed_plant": 77,
+  "flower_bed_cleared": 21,
+  "wing_white": 160,
+  "wing_rib": 64,
+  "banner_post": 18,
+  "banner_red": 80,
+  "podium_strip_blue": 312,
+  "podium_quartz": 312,
+  "podium_cap": 52,
+  "podium_bay_blue": 273,
+  "portal_shaft_cleared": 405,
+  "portal_face_cleared": 540,
+  "tower_fin": 280,
+  "tower_crown": 168,
+  "tower_base": 56,
+  "tower_strip_blue": 280,
+  "tower_quartz": 224,
+  "portal_outer_jamb": 96,
+  "portal_outer_lintel": 108,
+  "portal_mid_jamb": 80,
+  "portal_mid_lintel": 46,
+  "portal_inner_jamb": 72,
+  "portal_inner_lintel": 38,
+  "portal_glass_bay": 323,
+  "terrace_quartz": 108,
+  "west_plaza_skipped_tall": 103,
+  "west_plaza_slab": 1052,
+  "west_plaza_veg_cleared": 1616,
+  "west_plaza_skipped_road": 18,
+  "road26_fixup_cells": 136,
+  "road26_fixup_mismatch": 0
+ },
+ "cells_changed": 9343,
+ "elapsed_s": 2.0,
+ "level_dat": {
+  "old_name": "中国海洋大学西海岸校区v9",
+  "new_name": "中国海洋大学西海岸校区v10",
+  "old_lastplayed": 1795759167462,
+  "new_lastplayed": 1795761318140,
+  "spawn": [
+   1361,
+   -47,
+   711
+  ]
+ }
+}
