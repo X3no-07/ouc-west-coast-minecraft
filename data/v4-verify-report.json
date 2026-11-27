@@ -1,0 +1,189 @@
+{
+ "validate_mojang": {
+  "returncode": 0,
+  "stdout": "Vanilla read level.dat: 中国海洋大学西海岸校区v4 spawn (1361, 711)\nVanilla decoded 8,253 of 8,253 chunks across 10 regions.\n",
+  "stderr": ""
+ },
+ "facades": {
+  "info_north.long_wing": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 1207,
+    "minecraft:cut_sandstone_slab": 88,
+    "minecraft:air": 1
+   },
+   "red_roof_cells": 0,
+   "clutter_above_roof": 0,
+   "face_mix": {
+    "other:minecraft:smooth_stone": 180,
+    "fin": 282,
+    "field": 367,
+    "glass": 493,
+    "other:minecraft:light": 23,
+    "other:minecraft:smooth_sandstone_stairs": 90,
+    "other:minecraft:cut_sandstone_slab": 90,
+    "other:minecraft:oak_door": 2
+   },
+   "curtain_glass_cells": 216
+  },
+  "info_north.main": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 1440,
+    "minecraft:air": 30
+   },
+   "red_roof_cells": 0,
+   "clutter_above_roof": 0,
+   "face_mix": {
+    "other:minecraft:smooth_stone": 133,
+    "fin": 486,
+    "field": 944,
+    "glass": 654,
+    "other:minecraft:black_concrete": 9,
+    "other:minecraft:oak_door": 4
+   },
+   "curtain_glass_cells": 181
+  },
+  "info_north.west_wing": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 1026,
+    "minecraft:air": 54
+   },
+   "red_roof_cells": 0,
+   "clutter_above_roof": 0,
+   "face_mix": {
+    "other:minecraft:smooth_stone": 148,
+    "fin": 240,
+    "field": 415,
+    "glass": 398,
+    "other:minecraft:oak_door": 2
+   },
+   "curtain_glass_cells": 212
+  },
+  "info_south.big": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 2477,
+    "minecraft:air": 1903
+   },
+   "red_roof_cells": 0,
+   "clutter_above_roof": 0,
+   "face_mix": {
+    "other:minecraft:stone_bricks": 183,
+    "fin": 547,
+    "field": 787,
+    "glass": 671,
+    "other:minecraft:light": 60,
+    "other:minecraft:black_concrete": 9,
+    "other:minecraft:oak_door": 4,
+    "other:minecraft:birch_door": 4,
+    "other:minecraft:oak_planks": 1,
+    "other:minecraft:quartz_slab": 1
+   },
+   "curtain_glass_cells": 257
+  },
+  "info_south.small": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 1440,
+    "minecraft:air": 30
+   },
+   "red_roof_cells": 0,
+   "clutter_above_roof": 0,
+   "face_mix": {
+    "other:minecraft:smooth_stone": 76,
+    "fin": 163,
+    "other:minecraft:light": 68,
+    "field": 526,
+    "glass": 435,
+    "other:minecraft:white_concrete": 50,
+    "other:minecraft:stone_bricks": 5,
+    "other:minecraft:oak_door": 2
+   },
+   "curtain_glass_cells": 249
+  }
+ },
+ "main_entrances": {
+  "信息北楼主楼": {
+   "door": [
+    1075,
+    -41,
+    611
+   ],
+   "facing": "south",
+   "blocks_ok": true,
+   "stair_blocks": 72,
+   "canopy_cells": 45,
+   "bfs": {
+    "found": true,
+    "path_len": 22,
+    "visited": 439,
+    "why": "ok"
+   }
+  },
+  "信息南楼大部": {
+   "door": [
+    1014,
+    -41,
+    780
+   ],
+   "facing": "north",
+   "blocks_ok": true,
+   "stair_blocks": 72,
+   "canopy_cells": 45,
+   "bfs": {
+    "found": true,
+    "path_len": 22,
+    "visited": 397,
+    "why": "ok"
+   }
+  }
+ },
+ "low_building": {
+  "modal_top": [
+   [
+    -36,
+    121
+   ],
+   [
+    -34,
+    48
+   ]
+  ],
+  "roof_mix": {
+   "minecraft:light_gray_concrete": 121,
+   "minecraft:white_concrete_slab": 48
+  },
+  "wall_mix": {
+   "minecraft:white_concrete": 634,
+   "minecraft:light_blue_stained_glass": 264,
+   "minecraft:dark_oak_door": 2
+  },
+  "door_blocks_ok": true,
+  "bfs": {
+   "found": true,
+   "path_len": 6,
+   "visited": 67,
+   "why": "ok"
+  }
+ },
+ "courtyard": {
+  "blue_walkway_top_cells": 762,
+  "stone_bricks_top_cells": 4601,
+  "black_concrete_left": 0
+ },
+ "v3_doors_regression": [
+  {
+   "name": "main-west",
+   "blocks_ok": true
+  },
+  {
+   "name": "long-south",
+   "blocks_ok": true
+  },
+  {
+   "name": "west-east",
+   "blocks_ok": true
+  },
+  {
+   "name": "seam_door_1358",
+   "blocks_ok": true
+  }
+ ]
+}

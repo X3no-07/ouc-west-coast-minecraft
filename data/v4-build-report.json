@@ -1,0 +1,194 @@
+{
+ "world": "C:\\Users\\lenovo\\Documents\\Codex\\2026-11-25\\wo\\work\\ouc-campus\\staging-v4\\OUC-West-Coast-v4",
+ "base": "v3",
+ "checks": [
+  {
+   "name": "info_north.long_wing",
+   "rect": [
+    1018,
+    540,
+    1089,
+    557
+   ],
+   "modal_top": -29,
+   "roof_y": -29,
+   "present": true
+  },
+  {
+   "name": "info_north.main",
+   "rect": [
+    1050,
+    582,
+    1098,
+    611
+   ],
+   "modal_top": -20,
+   "roof_y": -20,
+   "present": true
+  },
+  {
+   "name": "info_north.west_wing",
+   "rect": [
+    1018,
+    558,
+    1037,
+    611
+   ],
+   "modal_top": -29,
+   "roof_y": -29,
+   "present": true
+  },
+  {
+   "name": "info_south.big",
+   "rect": [
+    986,
+    780,
+    1045,
+    852
+   ],
+   "modal_top": -27,
+   "roof_y": -27,
+   "present": true
+  },
+  {
+   "name": "info_south.small",
+   "rect": [
+    1020,
+    777,
+    1068,
+    806
+   ],
+   "modal_top": -31,
+   "roof_y": -31,
+   "present": true
+  },
+  {
+   "name": "low_building_rect_clear",
+   "rect": [
+    984,
+    694,
+    1008,
+    718
+   ],
+   "obstructions": [],
+   "clear": true
+  }
+ ],
+ "facades": {
+  "info_north.long_wing": {
+   "field": 279,
+   "fin": 282,
+   "glass": 277,
+   "curtain": 216,
+   "roof": 0,
+   "clutter_cleared": 0
+  },
+  "info_north.main": {
+   "field": 802,
+   "fin": 512,
+   "glass": 477,
+   "curtain": 178,
+   "roof": 1440,
+   "clutter_cleared": 0
+  },
+  "info_north.west_wing": {
+   "field": 312,
+   "fin": 254,
+   "glass": 186,
+   "curtain": 209,
+   "roof": 0,
+   "clutter_cleared": 0
+  },
+  "info_south.big": {
+   "field": 571,
+   "fin": 367,
+   "glass": 416,
+   "curtain": 258,
+   "roof": 2477,
+   "clutter_cleared": 425
+  },
+  "info_south.small": {
+   "field": 390,
+   "fin": 178,
+   "glass": 204,
+   "curtain": 226,
+   "roof": 79,
+   "clutter_cleared": 133
+  }
+ },
+ "main_entrances": {
+  "信息北楼主楼": {
+   "building": "信息北楼主楼",
+   "door": [
+    1075,
+    -41,
+    611
+   ],
+   "facing": "south",
+   "ground_y_outside": -46,
+   "steps": 72,
+   "canopy_cells": 45,
+   "canopy_y": -39,
+   "landing_surface": -41,
+   "ground_surface_in": -44,
+   "floor1_surface_in": -38,
+   "down_stair": true,
+   "down_treads": 6
+  },
+  "信息南楼大部": {
+   "building": "信息南楼大部",
+   "door": [
+    1014,
+    -41,
+    780
+   ],
+   "facing": "north",
+   "ground_y_outside": -46,
+   "steps": 72,
+   "canopy_cells": 45,
+   "canopy_y": -39,
+   "landing_surface": -41,
+   "ground_surface_in": -45,
+   "floor1_surface_in": -39,
+   "down_stair": true,
+   "down_treads": 8
+  }
+ },
+ "low_building": {
+  "rect": [
+   984,
+   694,
+   1008,
+   718
+  ],
+  "roof_y": -36,
+  "ground_y": -46,
+  "window_cells": 264,
+  "door": [
+   1008,
+   -45,
+   706
+  ],
+  "facing": "east",
+  "note": "全景：院落一端约2层白色低楼、平顶、横向窗带、中央深色门洞。位置估算：放院落西端（东西向未确认）；尺寸估算"
+ },
+ "courtyard": {
+  "plaza": 4384,
+  "walkway": 771,
+  "road_to_stone": 803,
+  "skipped": 0
+ },
+ "cells_changed": 19957,
+ "elapsed_s": 3.8,
+ "level_dat": {
+  "old_name": "中国海洋大学西海岸校区v3",
+  "new_name": "中国海洋大学西海岸校区v4",
+  "old_lastplayed": 1795721957731,
+  "new_lastplayed": 1795739964678,
+  "spawn": [
+   1361,
+   -47,
+   711
+  ]
+ }
+}
