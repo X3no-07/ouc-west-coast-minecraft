@@ -1,0 +1,329 @@
+{
+ "world": "/tmp/v5-work/staging-v5/OUC-West-Coast-v5",
+ "base": "v4",
+ "note": "internal build; do not announce a version number until the parent chat accepts it",
+ "roads": {
+  "paved": 48163,
+  "skipped_plaza_water_tree": 1050,
+  "skipped_building": 459,
+  "skipped_oob": 631,
+  "zebra_cells": 813,
+  "zebra_crossings": 31
+ },
+ "squares": {
+  "plaza_slabs": 8847,
+  "lawn_bed_cells": 231,
+  "sculpture_cells": 13,
+  "west_plaza_cells": 3125,
+  "lamp_posts": 4
+ },
+ "learning_facades": {
+  "学习综合体·图书馆主楼": {
+   "fin": 795,
+   "curtain": 959,
+   "field": 1563,
+   "glass": 114
+  },
+  "学习综合体·北楼西侧": {
+   "fin": 577,
+   "ground_white": 202,
+   "field": 1348,
+   "glass": 314
+  },
+  "学习综合体·南楼西侧": {
+   "fin": 550,
+   "ground_white": 75,
+   "field": 1316,
+   "glass": 260
+  },
+  "学习综合体·北楼东侧低区": {
+   "fin": 364,
+   "ground_white": 426,
+   "field": 646,
+   "glass": 272
+  },
+  "学习综合体·南楼东侧低区": {
+   "fin": 783,
+   "ground_white": 271,
+   "field": 1917,
+   "glass": 175
+  },
+  "西北连廊": {
+   "fin": 155,
+   "ground_white": 93,
+   "field": 266,
+   "glass": 15
+  },
+  "东北连廊": {
+   "fin": 116,
+   "glass": 313,
+   "ground_white": 234,
+   "field": 176
+  },
+  "西南连廊": {
+   "fin": 227,
+   "ground_white": 65,
+   "field": 451
+  },
+  "东南连廊": {
+   "ground_white": 170,
+   "fin": 250,
+   "field": 483,
+   "glass": 40
+  }
+ },
+ "learning_east_entrance": {
+  "door": [
+   1258,
+   -45,
+   696
+  ],
+  "facing": "east",
+  "ground_y_outside": -49,
+  "steps": 210,
+  "ground_in": -46,
+  "down_treads": 0
+ },
+ "dorms": {
+  "听海苑1号楼": {
+   "roof": 2176,
+   "clutter_cleared": 185,
+   "ground": 378,
+   "grid": 966,
+   "field": 921,
+   "glass": 117
+  },
+  "听海苑2号楼": {
+   "roof": 43,
+   "clutter_cleared": 347,
+   "ground": 122,
+   "field": 202,
+   "grid": 203,
+   "glass": 6
+  },
+  "听海苑3号楼": {
+   "roof": 1028,
+   "clutter_cleared": 43,
+   "ground": 138,
+   "grid": 344,
+   "field": 303,
+   "glass": 87
+  },
+  "听海苑4号楼": {
+   "roof": 1540,
+   "clutter_cleared": 183,
+   "ground": 151,
+   "grid": 87,
+   "glass": 20,
+   "field": 332
+  },
+  "听海苑5号楼": {
+   "roof": 1885,
+   "clutter_cleared": 555,
+   "ground": 124,
+   "glass": 41,
+   "field": 442,
+   "grid": 477
+  },
+  "听海苑6号楼": {
+   "roof": 1869,
+   "clutter_cleared": 290,
+   "ground": 170,
+   "grid": 570,
+   "field": 417
+  },
+  "听海苑7号楼": {
+   "roof": 1669,
+   "clutter_cleared": 504,
+   "ground": 165,
+   "grid": 135,
+   "field": 120
+  },
+  "听海苑8号楼": {
+   "roof": 1961,
+   "clutter_cleared": 368,
+   "ground": 183,
+   "field": 586,
+   "grid": 590,
+   "glass": 496
+  },
+  "听海苑9号楼": {
+   "roof": 1775,
+   "clutter_cleared": 184,
+   "ground": 327,
+   "grid": 785,
+   "field": 1058,
+   "glass": 947
+  },
+  "望海苑东侧院落宿舍": {
+   "roof": 3033,
+   "clutter_cleared": 452,
+   "grid": 858,
+   "field": 835,
+   "glass": 392,
+   "ground": 104
+  },
+  "望海苑西侧院落宿舍": {
+   "roof": 2278,
+   "clutter_cleared": 347,
+   "field": 855,
+   "grid": 267,
+   "glass": 338,
+   "ground": 86
+  },
+  "望海苑南侧宿舍东": {
+   "roof": 1125,
+   "clutter_cleared": 165,
+   "grid": 453,
+   "field": 757,
+   "glass": 50,
+   "ground": 117
+  },
+  "望海苑南侧宿舍西": {
+   "roof": 1480,
+   "clutter_cleared": 183,
+   "grid": 834,
+   "ground": 367,
+   "field": 731,
+   "glass": 2
+  },
+  "望海苑二期宿舍东": {
+   "yellow": 628
+  }
+ },
+ "tinghai_restaurant": {
+  "counts": {
+   "pillar": 48,
+   "fin": 106,
+   "glass": 97,
+   "louvre": 209,
+   "entrance_steps": 10,
+   "ext_stair": 20
+  },
+  "ground_door": [
+   1232,
+   -43,
+   320
+  ],
+  "upper_door": [
+   1232,
+   -39,
+   306
+  ]
+ },
+ "wanghai_restaurant": {
+  "counts": {
+   "pilaster": 126,
+   "field": 305,
+   "glass": 143,
+   "bay_glass": 279,
+   "bay_frame": 18,
+   "pitched_roof": 6032,
+   "pediment": 52,
+   "south_steps": 27
+  },
+  "doors": [
+   [
+    608,
+    -28,
+    350
+   ],
+   [
+    609,
+    -28,
+    350
+   ]
+  ]
+ },
+ "engineering": {
+  "counts": {
+   "colonnade": 101,
+   "pilaster": 249,
+   "glass": 204,
+   "field": 548,
+   "tower_roof": 441,
+   "arch_pilaster": 30,
+   "arch_corbel": 24,
+   "steps": 72
+  },
+  "door": [
+   1011,
+   -40,
+   505
+  ],
+  "ground_in": -42,
+  "down_treads": 4,
+  "ground_out": -43
+ },
+ "courts_finish": [
+  {
+   "area": "info-north-basketball",
+   "red_surround": 529,
+   "floodlight_poles": 4,
+   "fence_posts": 276
+  },
+  {
+   "area": "west-sports-basketball",
+   "red_surround": 732,
+   "floodlight_poles": 4,
+   "fence_posts": 424
+  }
+ ],
+ "football": {
+  "surface_y": -35,
+  "counts": {
+   "capped": 3666,
+   "track": 1368,
+   "lines": 483,
+   "goals": 2
+  },
+  "centre": [
+   714,
+   -35,
+   303
+  ]
+ },
+ "east_gate": {
+  "counts": {
+   "pillar_caps": 6,
+   "beam_cap": 18,
+   "plaque_band": 14,
+   "passage_veg_cleared": 9,
+   "wall_cells": 20,
+   "door_pad": 39,
+   "forecourt": 315,
+   "east_approach": 301
+  },
+  "doors": [
+   [
+    1636,
+    -51,
+    740
+   ],
+   [
+    1636,
+    -51,
+    758
+   ]
+  ],
+  "beam_y": -45,
+  "ground_y": -52
+ },
+ "leisure": {
+  "walkway": 1191,
+  "letters": 27
+ },
+ "cells_changed": 144347,
+ "elapsed_s": 50.5,
+ "level_dat": {
+  "old_name": "中国海洋大学西海岸校区v4",
+  "new_name": "中国海洋大学西海岸校区v5",
+  "old_lastplayed": 1795739964678,
+  "new_lastplayed": 1795744194715,
+  "spawn": [
+   1361,
+   -47,
+   711
+  ]
+ }
+}

@@ -1,0 +1,225 @@
+{
+ "world": "/tmp/v5-work/staging-v5/OUC-West-Coast-v5",
+ "checks": {
+  "roads_carriageway_grey": {
+   "ok": true,
+   "detail": "22/27 sampled road centres are grey/white concrete: {'road1292071622': 'minecraft:white_concrete', '海军路': 'minecraft:gray_concrete', 'road1292068339': 'minecraft:quartz_slab', '大学十一路': 'minecraft:white_concrete', '融合路': 'minecraft:stone_bricks', 'road1292068340': 'minecraft:white_concrete', 'road1292068341': 'minecraft:stone_bricks', '三沙路': 'minecraft:gray_concrete', '山川路': 'minecraft:gray_concrete', '里岛路': 'minecraft:gray_concrete', 'road1292068338': 'minecraft:gray_concrete', 'road1292068349': 'minecraft:white_concrete', 'road1292068342': 'minecraft:stone_bricks', '高峪路': 'minecraft:gray_concrete', 'road1292071624': 'minecraft:white_concrete', 'road1375670758': 'minecraft:gray_concrete', 'road1525512747': 'minecraft:gray_concrete', 'road1292068350': 'minecraft:white_concrete', 'road1292068351': 'minecraft:white_concrete', 'road1292071623': 'minecraft:white_concrete', 'road1292068343': 'minecraft:gray_concrete', 'road1292068344': 'minecraft:gray_concrete', 'road1292068345': 'minecraft:gray_concrete', 'road1292071625': 'minecraft:stone_bricks', 'road1292071626': 'minecraft:gray_concrete', 'road1524718881': 'minecraft:gray_concrete', 'road1564919356': 'minecraft:white_concrete'}"
+  },
+  "road34_kerbs": {
+   "ok": true,
+   "detail": "294/300 stone_bricks kerbs"
+  },
+  "road34_sidewalks": {
+   "ok": true,
+   "detail": "284/300 light-grey sidewalks"
+  },
+  "road34_centre": {
+   "ok": true,
+   "detail": "149/150 centre cells grey or white (dashes); the one miss is (1859,7) stone bricks at the road's north terminus by the map edge"
+  },
+  "zebra_crossings": {
+   "ok": true,
+   "detail": "31 crossings, 813 white cells"
+  },
+  "haoha_square_beige": {
+   "ok": true,
+   "detail": "sampled tops: {'minecraft:smooth_sandstone': 2108, 'minecraft:stone': 8, 'minecraft:iron_trapdoor': 1, 'minecraft:stone_stairs': 50, 'minecraft:white_concrete_stairs': 5, 'minecraft:grass_block': 295, 'minecraft:stone_bricks': 10, 'minecraft:red_concrete': 3, 'minecraft:quartz_slab': 9, 'minecraft:smooth_stone': 12}"
+  },
+  "haoha_lawn_bed": {
+   "ok": true,
+   "detail": "bed interior tops: {'minecraft:grass_block': 34, 'minecraft:red_concrete': 2}"
+  },
+  "haoha_sculpture": {
+   "ok": true,
+   "detail": "red pillar cells in column (1305, y, 700): 5/5"
+  },
+  "west_plaza_slabs": {
+   "ok": true,
+   "detail": "sampled tops: {'minecraft:cracked_stone_bricks': 21, 'minecraft:light_gray_concrete': 303, 'minecraft:smooth_stone': 49, 'minecraft:light': 1, 'minecraft:azure_bluet': 1, 'minecraft:allium': 3}"
+  },
+  "learning_main_facade": {
+   "ok": true,
+   "detail": "top materials: {'minecraft:light_gray_concrete': 1567, 'minecraft:light_blue_stained_glass': 1052, 'minecraft:gray_concrete': 792, 'minecraft:quartz_slab': 250, 'minecraft:white_concrete': 37, 'minecraft:smooth_quartz_slab': 23}"
+  },
+  "learning_east_curtain_bay": {
+   "ok": true,
+   "detail": "blue glass cells on east face in bay z 688-708: 123"
+  },
+  "learning_east_door": {
+   "ok": true,
+   "detail": "door at (1258, -45, 696)"
+  },
+  "learning_east_steps": {
+   "ok": true,
+   "detail": "10/10 step cells are stairs at z=696"
+  },
+  "bfs_gate_to_learning_east": {
+   "ok": true,
+   "detail": "path 429 cells, visited 132767, ok"
+  },
+  "dorm_听海苑1号楼": {
+   "ok": true,
+   "detail": "top: {'minecraft:brown_terracotta': 947, 'minecraft:smooth_sandstone': 940, 'minecraft:dark_oak_trapdoor': 829, 'minecraft:brown_concrete': 378, 'minecraft:red_terracotta': 164}"
+  },
+  "dorm_roof_听海苑1号楼": {
+   "ok": true,
+   "detail": "roof layer: {'minecraft:air': 150, 'minecraft:red_terracotta': 246}"
+  },
+  "dorm_听海苑2号楼": {
+   "ok": true,
+   "detail": "top: {'minecraft:smooth_sandstone': 211, 'minecraft:brown_terracotta': 185, 'minecraft:brown_concrete': 131, 'minecraft:dark_oak_trapdoor': 77, 'minecraft:polished_diorite': 59}"
+  },
+  "dorm_roof_听海苑2号楼": {
+   "ok": true,
+   "detail": "roof layer: {'minecraft:air': 156, 'minecraft:red_terracotta': 168}"
+  },
+  "dorm_听海苑3号楼": {
+   "ok": true,
+   "detail": "top: {'minecraft:smooth_sandstone': 384, 'minecraft:brown_terracotta': 343, 'minecraft:brown_concrete': 138, 'minecraft:red_terracotta': 93, 'minecraft:light_blue_stained_glass': 87}"
+  },
+  "dorm_roof_听海苑3号楼": {
+   "ok": true,
+   "detail": "roof layer: {'minecraft:red_terracotta': 126, 'minecraft:air': 7}"
+  },
+  "dorm_望海苑东侧院落宿舍": {
+   "ok": true,
+   "detail": "top: {'minecraft:smooth_sandstone': 858, 'minecraft:brown_terracotta': 835, 'minecraft:light_blue_stained_glass': 392, 'minecraft:stone': 254, 'minecraft:stone_bricks': 168}"
+  },
+  "dorm_roof_望海苑东侧院落宿舍": {
+   "ok": true,
+   "detail": "roof layer: {'minecraft:red_terracotta': 351, 'minecraft:air': 237}"
+  },
+  "dorm_望海苑西侧院落宿舍": {
+   "ok": true,
+   "detail": "top: {'minecraft:smooth_sandstone': 890, 'minecraft:brown_terracotta': 855, 'minecraft:birch_trapdoor': 420, 'minecraft:light_blue_stained_glass': 338, 'minecraft:sandstone': 256}"
+  },
+  "dorm_roof_望海苑西侧院落宿舍": {
+   "ok": true,
+   "detail": "roof layer: {'minecraft:red_terracotta': 270, 'minecraft:cut_sandstone_slab': 17, 'minecraft:air': 238}"
+  },
+  "wanghai_p2_east_yellow": {
+   "ok": true,
+   "detail": "top: {'minecraft:yellow_concrete': 628, 'minecraft:cut_sandstone_slab': 83, 'minecraft:smooth_sandstone_stairs': 83, 'minecraft:granite_stairs': 64}"
+  },
+  "tinghai_restaurant": {
+   "ok": true,
+   "detail": "top: {'minecraft:blue_concrete': 209, 'minecraft:gray_concrete': 106, 'minecraft:light_blue_stained_glass': 97, 'minecraft:light_gray_concrete': 89, 'minecraft:cobblestone': 87}"
+  },
+  "tinghai_restaurant_doors": {
+   "ok": true,
+   "detail": "ground door [1232, -43, 320]"
+  },
+  "wanghai_restaurant_facade": {
+   "ok": true,
+   "detail": "top: {'minecraft:smooth_sandstone': 305, 'minecraft:smooth_stone': 252, 'minecraft:light_blue_stained_glass': 143, 'minecraft:stone_bricks': 81, 'minecraft:oak_door': 6}"
+  },
+  "wanghai_restaurant_roof": {
+   "ok": true,
+   "detail": "red cells sampled above roof: 720"
+  },
+  "wanghai_restaurant_doors": {
+   "ok": true,
+   "detail": "doors [[608, -28, 350], [609, -28, 350]]"
+  },
+  "wanghai_north_bay": {
+   "ok": true,
+   "detail": "blue glass cells in north bay: 248"
+  },
+  "engineering_facade": {
+   "ok": true,
+   "detail": "top: {'minecraft:brown_terracotta': 773, 'minecraft:smooth_sandstone': 362, 'minecraft:light_blue_stained_glass': 200, 'minecraft:light_gray_concrete': 74, 'minecraft:oak_door': 4}"
+  },
+  "engineering_arch_opening": {
+   "ok": true,
+   "detail": "west face opening z 503-507, y -40..-37 is air/door"
+  },
+  "engineering_door": {
+   "ok": true,
+   "detail": "door [1011, -40, 505]"
+  },
+  "engineering_steps": {
+   "ok": true,
+   "detail": "8/8 step cells are stairs"
+  },
+  "courts_red_surround_info-north-basketball": {
+   "ok": true,
+   "detail": "529/564 ring cells red"
+  },
+  "courts_floodlight_info-north-basketball": {
+   "ok": true,
+   "detail": "white pole cells 6/6, yellow head True at (1133, 472)"
+  },
+  "courts_red_surround_west-sports-basketball": {
+   "ok": true,
+   "detail": "732/752 ring cells red"
+  },
+  "courts_floodlight_west-sports-basketball": {
+   "ok": true,
+   "detail": "white pole cells 6/6, yellow head True at (683, 185)"
+  },
+  "football_turf": {
+   "ok": true,
+   "detail": "green cells sampled: 635"
+  },
+  "football_lines": {
+   "ok": true,
+   "detail": "white cells on halfway line: 63"
+  },
+  "football_track": {
+   "ok": true,
+   "detail": "red track cells sampled: 72"
+  },
+  "east_gate_pillar_caps": {
+   "ok": true,
+   "detail": "6/8 pillar caps smooth stone"
+  },
+  "east_gate_beam_cap": {
+   "ok": true,
+   "detail": "18/18 beam cap cells"
+  },
+  "east_gate_plaque_band": {
+   "ok": true,
+   "detail": "14/14 plaque cells"
+  },
+  "east_gate_side_doors": {
+   "ok": true,
+   "detail": "doors [[1636, -51, 740], [1636, -51, 758]]"
+  },
+  "bfs_gate_passage": {
+   "ok": true,
+   "detail": "path 10, ok"
+  },
+  "east_gate_forecourt": {
+   "ok": true,
+   "detail": "forecourt tops: {'minecraft:smooth_sandstone': 45}"
+  },
+  "leisure_walkways": {
+   "ok": true,
+   "detail": "133/144 sampled walkway cells blue"
+  },
+  "leisure_ouc_letters": {
+   "ok": true,
+   "detail": "blue letter cells: 27"
+  },
+  "regression_info_building": {
+   "ok": true,
+   "detail": "top: {'minecraft:light_gray_concrete': 944, 'minecraft:light_blue_stained_glass': 654, 'minecraft:gray_concrete': 486, 'minecraft:black_concrete': 9, 'minecraft:oak_door': 4}"
+  },
+  "regression_v3_v4_doors": {
+   "ok": true,
+   "detail": "21/21 doors still in place; bad: []"
+  },
+  "regression_v4_entrance_steps": {
+   "ok": true,
+   "detail": "north door steps 72, south door steps 63 stair cells"
+  },
+  "level_dat_name": {
+   "ok": true,
+   "detail": "name=中国海洋大学西海岸校区v5"
+  },
+  "level_dat_spawn": {
+   "ok": true,
+   "detail": "spawn 1361,-47,711"
+  }
+ }
+}
