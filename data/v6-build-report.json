@@ -1,0 +1,350 @@
+{
+ "world": "/home/hatch/workspace/minecraft-ouc/staging-v6/OUC-West-Coast-v5",
+ "base": "v5+roadfix",
+ "note": "v6: white concrete centre 2-wide WWGG dash, 1-wide white concrete edge lines kept; missing Gaoyu middle segment added; no version number in level.dat yet",
+ "new_road": {
+  "osm_ids": [
+   1292071627,
+   1292071628
+  ],
+  "name": "高峪路",
+  "type": "residential",
+  "width": 5,
+  "pts": [
+   [
+    981,
+    375
+   ],
+   [
+    1014,
+    375
+   ],
+   [
+    1136,
+    375
+   ],
+   [
+    1176,
+    375
+   ],
+   [
+    1233,
+    374
+   ]
+  ],
+  "why_missing": "dropped by make_v3_data.py dedupe: same name+type as neighbours, bbox touching at shared endpoints counted as overlap"
+ },
+ "totals": {
+  "kept_road": 1396,
+  "centre_white": 13126,
+  "paved": 11825,
+  "centre_grey": 12700,
+  "edge_white": 10872,
+  "skipped_structure": 841,
+  "skipped_guard": 183,
+  "skipped_oob": 870,
+  "veg_cleared": 285,
+  "zebra_cells": 1221,
+  "zebra_crossings": 35
+ },
+ "per_road": {
+  "0": {
+   "kept_road": 20,
+   "centre_white": 634,
+   "paved": 495,
+   "centre_grey": 588
+  },
+  "1": {
+   "kept_road": 104,
+   "edge_white": 2010,
+   "paved": 806,
+   "centre_white": 1024,
+   "centre_grey": 986
+  },
+  "2": {
+   "kept_road": 46,
+   "paved": 420,
+   "centre_white": 548,
+   "centre_grey": 528,
+   "skipped_structure": 427,
+   "skipped_guard": 13
+  },
+  "3": {
+   "kept_road": 68,
+   "edge_white": 1640,
+   "paved": 571,
+   "centre_white": 834,
+   "skipped_oob": 722,
+   "centre_grey": 806
+  },
+  "4": {
+   "kept_road": 66,
+   "paved": 869,
+   "centre_white": 1012,
+   "centre_grey": 992,
+   "skipped_guard": 3,
+   "skipped_oob": 7
+  },
+  "5": {
+   "centre_white": 350,
+   "paved": 277,
+   "centre_grey": 320,
+   "kept_road": 9
+  },
+  "6": {
+   "kept_road": 13,
+   "paved": 153,
+   "centre_white": 188,
+   "centre_grey": 166
+  },
+  "7": {
+   "kept_road": 84,
+   "edge_white": 1834,
+   "paved": 750,
+   "centre_white": 924,
+   "centre_grey": 910
+  },
+  "8": {
+   "skipped_oob": 34,
+   "edge_white": 522,
+   "centre_white": 266,
+   "paved": 208,
+   "centre_grey": 256,
+   "kept_road": 7
+  },
+  "9": {
+   "kept_road": 42,
+   "edge_white": 1670,
+   "paved": 666,
+   "centre_white": 840,
+   "centre_grey": 830
+  },
+  "10": {
+   "centre_white": 208,
+   "paved": 150,
+   "centre_grey": 196,
+   "skipped_structure": 110,
+   "kept_road": 3
+  },
+  "11": {
+   "kept_road": 35,
+   "paved": 350,
+   "centre_white": 398,
+   "centre_grey": 386
+  },
+  "12": {
+   "kept_road": 66,
+   "paved": 106,
+   "centre_white": 128,
+   "centre_grey": 122
+  },
+  "13": {
+   "kept_road": 51,
+   "edge_white": 1656,
+   "paved": 659,
+   "centre_white": 834,
+   "centre_grey": 822
+  },
+  "14": {
+   "paved": 141,
+   "centre_white": 174,
+   "kept_road": 7,
+   "centre_grey": 162,
+   "skipped_structure": 14
+  },
+  "15": {
+   "kept_road": 18,
+   "paved": 486,
+   "centre_white": 618,
+   "centre_grey": 610
+  },
+  "16": {
+   "kept_road": 162,
+   "skipped_oob": 86,
+   "centre_white": 240,
+   "centre_grey": 226,
+   "paved": 166
+  },
+  "17": {
+   "centre_white": 218,
+   "paved": 171,
+   "centre_grey": 210,
+   "kept_road": 19
+  },
+  "18": {
+   "paved": 118,
+   "centre_white": 134,
+   "kept_road": 9,
+   "centre_grey": 126
+  },
+  "19": {
+   "kept_road": 7,
+   "paved": 281,
+   "centre_white": 356,
+   "centre_grey": 350
+  },
+  "20": {
+   "kept_road": 77,
+   "centre_white": 84,
+   "paved": 65,
+   "centre_grey": 76,
+   "skipped_guard": 4
+  },
+  "21": {
+   "centre_white": 142,
+   "paved": 104,
+   "centre_grey": 136,
+   "kept_road": 23
+  },
+  "22": {
+   "edge_white": 1540,
+   "centre_white": 772,
+   "paved": 602,
+   "centre_grey": 768,
+   "skipped_guard": 3,
+   "kept_road": 27
+  },
+  "23": {
+   "kept_road": 13,
+   "paved": 89,
+   "centre_white": 100,
+   "centre_grey": 98
+  },
+  "24": {
+   "kept_road": 14,
+   "paved": 78,
+   "centre_white": 92,
+   "centre_grey": 88,
+   "skipped_structure": 11
+  },
+  "25": {
+   "kept_road": 4,
+   "centre_white": 22,
+   "paved": 23,
+   "centre_grey": 20
+  },
+  "26": {
+   "centre_white": 26,
+   "paved": 15,
+   "centre_grey": 20,
+   "kept_road": 7,
+   "skipped_oob": 21
+  },
+  "27": {
+   "kept_road": 37,
+   "paved": 78,
+   "centre_white": 104,
+   "centre_grey": 100,
+   "skipped_guard": 4,
+   "skipped_structure": 27
+  },
+  "28": {
+   "kept_road": 70,
+   "centre_white": 84,
+   "paved": 60,
+   "centre_grey": 76,
+   "skipped_guard": 105,
+   "skipped_structure": 5
+  },
+  "29": {
+   "centre_white": 44,
+   "paved": 33,
+   "kept_road": 42,
+   "centre_grey": 38
+  },
+  "30": {
+   "kept_road": 61,
+   "paved": 54,
+   "centre_white": 68,
+   "centre_grey": 68,
+   "skipped_guard": 22
+  },
+  "31": {
+   "kept_road": 58,
+   "paved": 39,
+   "centre_white": 56,
+   "centre_grey": 50
+  },
+  "32": {
+   "kept_road": 19,
+   "paved": 48,
+   "centre_white": 60,
+   "centre_grey": 60
+  },
+  "33": {
+   "kept_road": 7,
+   "paved": 40,
+   "centre_white": 54,
+   "centre_grey": 52
+  },
+  "34": {
+   "kept_road": 9,
+   "centre_white": 136,
+   "paved": 112,
+   "centre_grey": 132
+  },
+  "35": {
+   "centre_white": 150,
+   "kept_road": 9,
+   "paved": 113,
+   "centre_grey": 148
+  },
+  "36": {
+   "kept_road": 6,
+   "paved": 64,
+   "centre_white": 68,
+   "centre_grey": 64
+  },
+  "37": {
+   "centre_white": 64,
+   "paved": 61,
+   "kept_road": 6,
+   "centre_grey": 60,
+   "skipped_guard": 7
+  },
+  "38": {
+   "kept_road": 5,
+   "centre_white": 24,
+   "paved": 6,
+   "centre_grey": 24,
+   "skipped_guard": 6,
+   "skipped_structure": 114
+  },
+  "39": {
+   "kept_road": 29,
+   "centre_white": 34,
+   "paved": 23,
+   "centre_grey": 32
+  },
+  "40": {
+   "kept_road": 11,
+   "paved": 15,
+   "centre_white": 32,
+   "centre_grey": 32,
+   "skipped_guard": 9,
+   "skipped_structure": 133
+  },
+  "41": {
+   "paved": 150,
+   "centre_white": 190,
+   "kept_road": 3,
+   "centre_grey": 188
+  },
+  "42": {
+   "paved": 406,
+   "centre_white": 530,
+   "kept_road": 4,
+   "centre_grey": 528,
+   "skipped_guard": 7
+  },
+  "43": {
+   "centre_white": 262,
+   "paved": 1704,
+   "kept_road": 19,
+   "centre_grey": 250,
+   "veg_cleared": 285
+  }
+ },
+ "cells_changed": 11070,
+ "elapsed_s": 37.3
+}

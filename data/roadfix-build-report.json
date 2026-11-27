@@ -1,0 +1,268 @@
+{
+ "world": "/home/hatch/workspace/minecraft-ouc/staging-roadfix/OUC-West-Coast-v5",
+ "base": "v5",
+ "note": "road-only fix; no version number assigned",
+ "totals": {
+  "paved": 75244,
+  "veg_cleared": 7600,
+  "kept_road": 1207,
+  "kept_kerb": 23,
+  "skipped_structure": 841,
+  "skipped_guard": 183,
+  "skipped_oob": 870,
+  "zebra_cells": 1072,
+  "zebra_crossings": 31
+ },
+ "per_road": {
+  "0": {
+   "paved": 3707,
+   "veg_cleared": 355,
+   "kept_road": 10
+  },
+  "1": {
+   "kept_road": 83,
+   "paved": 6144,
+   "veg_cleared": 695,
+   "kept_kerb": 3
+  },
+  "2": {
+   "kept_road": 27,
+   "paved": 2937,
+   "veg_cleared": 245,
+   "skipped_structure": 427,
+   "skipped_guard": 13
+  },
+  "3": {
+   "kept_road": 53,
+   "paved": 4484,
+   "skipped_oob": 722,
+   "kept_kerb": 1,
+   "veg_cleared": 211
+  },
+  "4": {
+   "kept_road": 52,
+   "paved": 6126,
+   "veg_cleared": 618,
+   "skipped_guard": 3,
+   "kept_kerb": 4,
+   "skipped_oob": 7
+  },
+  "5": {
+   "paved": 2043,
+   "veg_cleared": 228,
+   "kept_road": 5
+  },
+  "6": {
+   "kept_road": 8,
+   "paved": 1106,
+   "veg_cleared": 121
+  },
+  "7": {
+   "paved": 5666,
+   "kept_road": 68,
+   "kept_kerb": 2
+  },
+  "8": {
+   "skipped_oob": 34,
+   "paved": 1582,
+   "veg_cleared": 58,
+   "kept_road": 3
+  },
+  "9": {
+   "paved": 5140,
+   "kept_road": 42,
+   "kept_kerb": 3,
+   "veg_cleared": 450
+  },
+  "10": {
+   "paved": 1141,
+   "veg_cleared": 123,
+   "skipped_structure": 110,
+   "kept_road": 3
+  },
+  "11": {
+   "kept_road": 27,
+   "paved": 2374,
+   "veg_cleared": 285
+  },
+  "12": {
+   "kept_road": 52,
+   "paved": 707,
+   "veg_cleared": 94
+  },
+  "13": {
+   "kept_road": 51,
+   "paved": 4929,
+   "kept_kerb": 3,
+   "veg_cleared": 779
+  },
+  "14": {
+   "paved": 1079,
+   "kept_road": 3,
+   "veg_cleared": 97,
+   "skipped_structure": 14
+  },
+  "15": {
+   "kept_road": 17,
+   "paved": 3790,
+   "veg_cleared": 482,
+   "kept_kerb": 2
+  },
+  "16": {
+   "kept_road": 160,
+   "skipped_oob": 86,
+   "paved": 1208,
+   "veg_cleared": 142
+  },
+  "17": {
+   "paved": 1289,
+   "veg_cleared": 170,
+   "kept_road": 14
+  },
+  "18": {
+   "paved": 777,
+   "kept_road": 9,
+   "veg_cleared": 31
+  },
+  "19": {
+   "kept_road": 6,
+   "paved": 2189,
+   "veg_cleared": 234
+  },
+  "20": {
+   "kept_road": 73,
+   "paved": 415,
+   "veg_cleared": 36,
+   "skipped_guard": 4
+  },
+  "21": {
+   "paved": 841,
+   "veg_cleared": 149,
+   "kept_road": 15
+  },
+  "22": {
+   "paved": 4798,
+   "veg_cleared": 815,
+   "skipped_guard": 3,
+   "kept_road": 27,
+   "kept_kerb": 1
+  },
+  "23": {
+   "kept_road": 13,
+   "paved": 577,
+   "veg_cleared": 82,
+   "kept_kerb": 2
+  },
+  "24": {
+   "kept_road": 14,
+   "paved": 510,
+   "veg_cleared": 75,
+   "skipped_structure": 11,
+   "kept_kerb": 2
+  },
+  "25": {
+   "paved": 109,
+   "veg_cleared": 5,
+   "kept_road": 2
+  },
+  "26": {
+   "paved": 112,
+   "kept_road": 7,
+   "veg_cleared": 12,
+   "skipped_oob": 21
+  },
+  "27": {
+   "kept_road": 32,
+   "paved": 554,
+   "veg_cleared": 97,
+   "skipped_guard": 4,
+   "skipped_structure": 27
+  },
+  "28": {
+   "kept_road": 64,
+   "paved": 306,
+   "veg_cleared": 17,
+   "skipped_guard": 105,
+   "skipped_structure": 5
+  },
+  "29": {
+   "paved": 195,
+   "veg_cleared": 25,
+   "kept_road": 42
+  },
+  "30": {
+   "kept_road": 59,
+   "paved": 317,
+   "skipped_guard": 22,
+   "veg_cleared": 10
+  },
+  "31": {
+   "kept_road": 58,
+   "paved": 257,
+   "veg_cleared": 28
+  },
+  "32": {
+   "kept_road": 19,
+   "paved": 338,
+   "veg_cleared": 76
+  },
+  "33": {
+   "kept_road": 7,
+   "paved": 310,
+   "veg_cleared": 18
+  },
+  "34": {
+   "kept_road": 9,
+   "paved": 847,
+   "veg_cleared": 59
+  },
+  "35": {
+   "kept_road": 9,
+   "paved": 898,
+   "veg_cleared": 120
+  },
+  "36": {
+   "kept_road": 6,
+   "paved": 392,
+   "veg_cleared": 24
+  },
+  "37": {
+   "paved": 361,
+   "kept_road": 6,
+   "veg_cleared": 27,
+   "skipped_guard": 7
+  },
+  "38": {
+   "kept_road": 5,
+   "paved": 34,
+   "veg_cleared": 4,
+   "skipped_guard": 6,
+   "skipped_structure": 114
+  },
+  "39": {
+   "kept_road": 29,
+   "paved": 157,
+   "veg_cleared": 11
+  },
+  "40": {
+   "kept_road": 11,
+   "paved": 38,
+   "veg_cleared": 4,
+   "skipped_guard": 9,
+   "skipped_structure": 133
+  },
+  "41": {
+   "paved": 1171,
+   "kept_road": 3,
+   "veg_cleared": 148
+  },
+  "42": {
+   "paved": 3289,
+   "kept_road": 4,
+   "veg_cleared": 340,
+   "skipped_guard": 7
+  }
+ },
+ "cells_changed": 81970,
+ "elapsed_s": 37.0
+}
