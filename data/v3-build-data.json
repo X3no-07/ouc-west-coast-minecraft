@@ -1,0 +1,1654 @@
+{
+ "roads": [
+  {
+   "id": 1292071622,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     963,
+     718
+    ],
+    [
+     954,
+     727
+    ],
+    [
+     948,
+     738
+    ],
+    [
+     946,
+     756
+    ],
+    [
+     948,
+     765
+    ],
+    [
+     953,
+     773
+    ],
+    [
+     959,
+     786
+    ],
+    [
+     961,
+     800
+    ],
+    [
+     956,
+     822
+    ],
+    [
+     947,
+     834
+    ],
+    [
+     936,
+     843
+    ],
+    [
+     928,
+     853
+    ],
+    [
+     922,
+     865
+    ],
+    [
+     922,
+     872
+    ],
+    [
+     922,
+     881
+    ],
+    [
+     985,
+     906
+    ],
+    [
+     1101,
+     932
+    ],
+    [
+     1114,
+     935
+    ],
+    [
+     1205,
+     951
+    ],
+    [
+     1249,
+     957
+    ],
+    [
+     1294,
+     961
+    ],
+    [
+     1347,
+     960
+    ]
+   ]
+  },
+  {
+   "id": 794887763,
+   "type": "tertiary",
+   "name": "海军路",
+   "width": 7,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1681,
+     995
+    ],
+    [
+     1681,
+     965
+    ],
+    [
+     1652,
+     769
+    ],
+    [
+     1647,
+     743
+    ],
+    [
+     1639,
+     681
+    ],
+    [
+     1634,
+     620
+    ],
+    [
+     1634,
+     556
+    ],
+    [
+     1637,
+     492
+    ],
+    [
+     1643,
+     447
+    ],
+    [
+     1650,
+     408
+    ],
+    [
+     1657,
+     376
+    ],
+    [
+     1694,
+     267
+    ],
+    [
+     1757,
+     143
+    ],
+    [
+     1817,
+     50
+    ],
+    [
+     1853,
+     14
+    ],
+    [
+     1861,
+     5
+    ]
+   ]
+  },
+  {
+   "id": 1292068339,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1150,
+     572
+    ],
+    [
+     1292,
+     588
+    ],
+    [
+     1284,
+     650
+    ],
+    [
+     1272,
+     660
+    ],
+    [
+     1268,
+     676
+    ],
+    [
+     1266,
+     692
+    ],
+    [
+     1261,
+     727
+    ],
+    [
+     1258,
+     752
+    ],
+    [
+     1259,
+     759
+    ],
+    [
+     1264,
+     766
+    ],
+    [
+     1267,
+     766
+    ],
+    [
+     1263,
+     802
+    ],
+    [
+     1262,
+     812
+    ],
+    [
+     1259,
+     823
+    ],
+    [
+     1189,
+     816
+    ],
+    [
+     1118,
+     808
+    ]
+   ]
+  },
+  {
+   "id": 1147354919,
+   "type": "tertiary",
+   "name": "大学十一路",
+   "width": 7,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1681,
+     995
+    ],
+    [
+     1672,
+     996
+    ],
+    [
+     1559,
+     995
+    ],
+    [
+     1438,
+     989
+    ],
+    [
+     1387,
+     988
+    ],
+    [
+     1310,
+     982
+    ],
+    [
+     1214,
+     970
+    ],
+    [
+     1199,
+     968
+    ],
+    [
+     1122,
+     953
+    ],
+    [
+     1076,
+     943
+    ],
+    [
+     1027,
+     933
+    ],
+    [
+     936,
+     905
+    ],
+    [
+     881,
+     887
+    ],
+    [
+     874,
+     885
+    ]
+   ]
+  },
+  {
+   "id": 1292068337,
+   "type": "residential",
+   "name": "融合路",
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1505,
+     5
+    ],
+    [
+     1503,
+     14
+    ],
+    [
+     1464,
+     220
+    ],
+    [
+     1457,
+     283
+    ],
+    [
+     1444,
+     374
+    ],
+    [
+     1426,
+     556
+    ],
+    [
+     1417,
+     671
+    ],
+    [
+     1415,
+     784
+    ],
+    [
+     1412,
+     888
+    ],
+    [
+     1388,
+     936
+    ],
+    [
+     1387,
+     988
+    ],
+    [
+     1387,
+     996
+    ]
+   ]
+  },
+  {
+   "id": 1292068340,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1014,
+     375
+    ],
+    [
+     998,
+     460
+    ],
+    [
+     986,
+     542
+    ],
+    [
+     995,
+     568
+    ],
+    [
+     999,
+     588
+    ],
+    [
+     995,
+     605
+    ],
+    [
+     985,
+     621
+    ],
+    [
+     978,
+     630
+    ],
+    [
+     973,
+     641
+    ],
+    [
+     973,
+     654
+    ],
+    [
+     978,
+     666
+    ],
+    [
+     970,
+     699
+    ]
+   ]
+  },
+  {
+   "id": 1292068341,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1140,
+     633
+    ],
+    [
+     1124,
+     633
+    ],
+    [
+     1113,
+     632
+    ],
+    [
+     1076,
+     626
+    ],
+    [
+     1061,
+     626
+    ],
+    [
+     1050,
+     628
+    ],
+    [
+     1041,
+     632
+    ],
+    [
+     1031,
+     642
+    ],
+    [
+     1023,
+     654
+    ],
+    [
+     1006,
+     665
+    ],
+    [
+     993,
+     667
+    ],
+    [
+     978,
+     666
+    ]
+   ]
+  },
+  {
+   "id": 451565208,
+   "type": "secondary",
+   "name": "三沙路",
+   "width": 7,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1031,
+     10
+    ],
+    [
+     1029,
+     20
+    ],
+    [
+     1021,
+     70
+    ],
+    [
+     967,
+     375
+    ],
+    [
+     920,
+     627
+    ],
+    [
+     874,
+     885
+    ],
+    [
+     872,
+     893
+    ],
+    [
+     869,
+     920
+    ]
+   ]
+  },
+  {
+   "id": 388674349,
+   "type": "primary",
+   "name": "山川路",
+   "width": 9,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     -1,
+     283
+    ],
+    [
+     8,
+     267
+    ],
+    [
+     40,
+     210
+    ],
+    [
+     83,
+     131
+    ],
+    [
+     99,
+     91
+    ],
+    [
+     108,
+     56
+    ],
+    [
+     116,
+     28
+    ]
+   ]
+  },
+  {
+   "id": 794887755,
+   "type": "tertiary",
+   "name": "里岛路",
+   "width": 7,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1861,
+     5
+    ],
+    [
+     1849,
+     5
+    ],
+    [
+     1814,
+     5
+    ],
+    [
+     1505,
+     5
+    ],
+    [
+     1043,
+     10
+    ],
+    [
+     1031,
+     10
+    ]
+   ]
+  },
+  {
+   "id": 1292068338,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1136,
+     375
+    ],
+    [
+     1125,
+     455
+    ],
+    [
+     1126,
+     485
+    ],
+    [
+     1134,
+     513
+    ],
+    [
+     1143,
+     546
+    ],
+    [
+     1150,
+     572
+    ]
+   ]
+  },
+  {
+   "id": 1292068349,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1417,
+     671
+    ],
+    [
+     1559,
+     688
+    ],
+    [
+     1559,
+     729
+    ],
+    [
+     1555,
+     755
+    ],
+    [
+     1545,
+     803
+    ],
+    [
+     1415,
+     784
+    ]
+   ]
+  },
+  {
+   "id": 1524718896,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1255,
+     374
+    ],
+    [
+     1254,
+     307
+    ],
+    [
+     1261,
+     297
+    ],
+    [
+     1279,
+     297
+    ],
+    [
+     1290,
+     297
+    ],
+    [
+     1304,
+     297
+    ]
+   ]
+  },
+  {
+   "id": 794887754,
+   "type": "tertiary",
+   "name": "里岛路",
+   "width": 7,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1029,
+     20
+    ],
+    [
+     1042,
+     20
+    ],
+    [
+     1503,
+     14
+    ],
+    [
+     1841,
+     13
+    ],
+    [
+     1853,
+     14
+    ]
+   ]
+  },
+  {
+   "id": 1292068342,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1127,
+     743
+    ],
+    [
+     1085,
+     739
+    ],
+    [
+     1045,
+     732
+    ],
+    [
+     1004,
+     725
+    ],
+    [
+     963,
+     718
+    ]
+   ]
+  },
+  {
+   "id": 1292071620,
+   "type": "residential",
+   "name": "高峪路",
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     371,
+     360
+    ],
+    [
+     548,
+     373
+    ],
+    [
+     672,
+     373
+    ],
+    [
+     967,
+     375
+    ],
+    [
+     981,
+     375
+    ]
+   ]
+  },
+  {
+   "id": 1358974103,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1221,
+     998
+    ],
+    [
+     1024,
+     955
+    ],
+    [
+     1007,
+     956
+    ],
+    [
+     997,
+     960
+    ],
+    [
+     992,
+     964
+    ]
+   ]
+  },
+  {
+   "id": 1292068336,
+   "type": "residential",
+   "name": "高峪路",
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1233,
+     374
+    ],
+    [
+     1255,
+     374
+    ],
+    [
+     1371,
+     374
+    ],
+    [
+     1444,
+     374
+    ]
+   ]
+  },
+  {
+   "id": 1292071624,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1118,
+     808
+    ],
+    [
+     1115,
+     838
+    ],
+    [
+     1115,
+     870
+    ],
+    [
+     1114,
+     935
+    ]
+   ]
+  },
+  {
+   "id": 1375670758,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     628,
+     967
+    ],
+    [
+     614,
+     833
+    ],
+    [
+     656,
+     740
+    ],
+    [
+     696,
+     617
+    ]
+   ]
+  },
+  {
+   "id": 1524718879,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1335,
+     255
+    ],
+    [
+     1312,
+     265
+    ],
+    [
+     1279,
+     266
+    ],
+    [
+     1258,
+     252
+    ]
+   ]
+  },
+  {
+   "id": 1524718899,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1176,
+     375
+    ],
+    [
+     1176,
+     286
+    ],
+    [
+     1176,
+     270
+    ],
+    [
+     1176,
+     239
+    ]
+   ]
+  },
+  {
+   "id": 1525512747,
+   "type": "secondary",
+   "name": null,
+   "width": 7,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     102,
+     837
+    ],
+    [
+     628,
+     967
+    ],
+    [
+     826,
+     941
+    ],
+    [
+     869,
+     920
+    ]
+   ]
+  },
+  {
+   "id": 1292068350,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1555,
+     755
+    ],
+    [
+     1645,
+     767
+    ],
+    [
+     1652,
+     769
+    ]
+   ]
+  },
+  {
+   "id": 1292068351,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1559,
+     729
+    ],
+    [
+     1640,
+     741
+    ],
+    [
+     1647,
+     743
+    ]
+   ]
+  },
+  {
+   "id": 1292071623,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     970,
+     699
+    ],
+    [
+     968,
+     710
+    ],
+    [
+     963,
+     718
+    ]
+   ]
+  },
+  {
+   "id": 1412220121,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1224,
+     977
+    ],
+    [
+     1223,
+     985
+    ],
+    [
+     1221,
+     998
+    ]
+   ]
+  },
+  {
+   "id": 1524718876,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1457,
+     283
+    ],
+    [
+     1408,
+     281
+    ],
+    [
+     1357,
+     280
+    ]
+   ]
+  },
+  {
+   "id": 1524718877,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1353,
+     310
+    ],
+    [
+     1402,
+     310
+    ],
+    [
+     1408,
+     281
+    ]
+   ]
+  },
+  {
+   "id": 1524718878,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1351,
+     319
+    ],
+    [
+     1353,
+     310
+    ],
+    [
+     1357,
+     280
+    ]
+   ]
+  },
+  {
+   "id": 1524718895,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1290,
+     297
+    ],
+    [
+     1290,
+     332
+    ],
+    [
+     1321,
+     333
+    ]
+   ]
+  },
+  {
+   "id": 1524718897,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1176,
+     286
+    ],
+    [
+     1217,
+     286
+    ],
+    [
+     1227,
+     292
+    ]
+   ]
+  },
+  {
+   "id": 1524718898,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1176,
+     270
+    ],
+    [
+     1223,
+     270
+    ],
+    [
+     1234,
+     277
+    ]
+   ]
+  },
+  {
+   "id": 1292068343,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     970,
+     699
+    ],
+    [
+     918,
+     690
+    ]
+   ]
+  },
+  {
+   "id": 1292068344,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1284,
+     650
+    ],
+    [
+     1417,
+     671
+    ]
+   ]
+  },
+  {
+   "id": 1292068345,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1267,
+     766
+    ],
+    [
+     1415,
+     784
+    ]
+   ]
+  },
+  {
+   "id": 1292071625,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1127,
+     743
+    ],
+    [
+     1118,
+     808
+    ]
+   ]
+  },
+  {
+   "id": 1292071626,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1150,
+     572
+    ],
+    [
+     1140,
+     633
+    ]
+   ]
+  },
+  {
+   "id": 1524718874,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1360,
+     342
+    ],
+    [
+     1351,
+     319
+    ]
+   ]
+  },
+  {
+   "id": 1524718875,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1371,
+     374
+    ],
+    [
+     1360,
+     342
+    ]
+   ]
+  },
+  {
+   "id": 1524718880,
+   "type": "service",
+   "name": null,
+   "width": 4,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     1279,
+     297
+    ],
+    [
+     1279,
+     266
+    ]
+   ]
+  },
+  {
+   "id": 1524718881,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     371,
+     360
+    ],
+    [
+     397,
+     172
+    ]
+   ]
+  },
+  {
+   "id": 1564919356,
+   "type": "residential",
+   "name": null,
+   "width": 5,
+   "material": "black_concrete",
+   "sidewalk": "light_gray_concrete",
+   "pts": [
+    [
+     116,
+     28
+    ],
+    [
+     644,
+     38
+    ]
+   ]
+  }
+ ],
+ "courts": [
+  {
+   "area": "info-north-basketball",
+   "osm_way": 1524352134,
+   "bbox": [
+    1131,
+    470,
+    1238,
+    516
+   ],
+   "courts": [
+    {
+     "x0": 1140,
+     "z0": 477,
+     "x1": 1167,
+     "z1": 491,
+     "cx": 1154,
+     "cz": 484
+    },
+    {
+     "x0": 1171,
+     "z0": 477,
+     "x1": 1198,
+     "z1": 491,
+     "cx": 1185,
+     "cz": 484
+    },
+    {
+     "x0": 1202,
+     "z0": 477,
+     "x1": 1229,
+     "z1": 491,
+     "cx": 1216,
+     "cz": 484
+    },
+    {
+     "x0": 1140,
+     "z0": 495,
+     "x1": 1167,
+     "z1": 509,
+     "cx": 1154,
+     "cz": 502
+    },
+    {
+     "x0": 1171,
+     "z0": 495,
+     "x1": 1198,
+     "z1": 509,
+     "cx": 1185,
+     "cz": 502
+    },
+    {
+     "x0": 1202,
+     "z0": 495,
+     "x1": 1229,
+     "z1": 509,
+     "cx": 1216,
+     "cz": 502
+    }
+   ]
+  },
+  {
+   "area": "west-sports-basketball",
+   "osm_way": 1524718894,
+   "bbox": [
+    681,
+    183,
+    839,
+    241
+   ],
+   "courts": [
+    {
+     "x0": 700,
+     "z0": 196,
+     "x1": 727,
+     "z1": 210,
+     "cx": 714,
+     "cz": 203
+    },
+    {
+     "x0": 731,
+     "z0": 196,
+     "x1": 758,
+     "z1": 210,
+     "cx": 745,
+     "cz": 203
+    },
+    {
+     "x0": 762,
+     "z0": 196,
+     "x1": 789,
+     "z1": 210,
+     "cx": 776,
+     "cz": 203
+    },
+    {
+     "x0": 793,
+     "z0": 196,
+     "x1": 820,
+     "z1": 210,
+     "cx": 807,
+     "cz": 203
+    },
+    {
+     "x0": 700,
+     "z0": 214,
+     "x1": 727,
+     "z1": 228,
+     "cx": 714,
+     "cz": 221
+    },
+    {
+     "x0": 731,
+     "z0": 214,
+     "x1": 758,
+     "z1": 228,
+     "cx": 745,
+     "cz": 221
+    },
+    {
+     "x0": 762,
+     "z0": 214,
+     "x1": 789,
+     "z1": 228,
+     "cx": 776,
+     "cz": 221
+    },
+    {
+     "x0": 793,
+     "z0": 214,
+     "x1": 820,
+     "z1": 228,
+     "cx": 807,
+     "cz": 221
+    }
+   ]
+  }
+ ],
+ "info_north": {
+  "long_wing": {
+   "rect": [
+    1018,
+    540,
+    1089,
+    557
+   ],
+   "roof_y": -29,
+   "ground_y": -45,
+   "floors": 3,
+   "roof_target": "minecraft:light_gray_concrete"
+  },
+  "main": {
+   "rect": [
+    1050,
+    582,
+    1098,
+    611
+   ],
+   "roof_y": -20,
+   "ground_y": -45,
+   "floors": 5,
+   "roof_target": "minecraft:gray_concrete"
+  },
+  "west_wing": {
+   "rect": [
+    1018,
+    558,
+    1037,
+    611
+   ],
+   "roof_y": -29,
+   "ground_y": -45,
+   "floors": 3,
+   "roof_target": "minecraft:light_gray_concrete"
+  },
+  "courtyard": [
+   1038,
+   558,
+   1049,
+   581
+  ]
+ },
+ "missing_buildings": [
+  {
+   "osm_way": 1524352137,
+   "name": "海洋楼",
+   "poly": [
+    [
+     1447,
+     826
+    ],
+    [
+     1436,
+     904
+    ],
+    [
+     1516,
+     916
+    ],
+    [
+     1525,
+     836
+    ],
+    [
+     1447,
+     826
+    ]
+   ],
+   "floors_est": 4,
+   "note": "OSM building=university; 总图该位置标注综合服务中心；无层数来源，估4层"
+  },
+  {
+   "osm_way": 1524718890,
+   "name": "望海餐厅北侧无名楼",
+   "poly": [
+    [
+     587,
+     235
+    ],
+    [
+     587,
+     282
+    ],
+    [
+     637,
+     282
+    ],
+    [
+     637,
+     234
+    ],
+    [
+     587,
+     235
+    ]
+   ],
+   "floors_est": 2,
+   "note": "OSM building=yes 无名；望海餐厅北侧；无层数来源，估2层"
+  }
+ ],
+ "seam_door": {
+  "building": "听海苑2号楼",
+  "wall": "north",
+  "wall_z": 320,
+  "scan_x": [
+   1355,
+   1363
+  ],
+  "facing": "north",
+  "note": "准星接缝：1号楼西墙(X1363)与2号楼北墙(Z320)交角；门开在2号楼北墙近角处，朝北向玩家/步道"
+ },
+ "east_gate": {
+  "x": [
+   1636,
+   1637
+  ],
+  "z": [
+   743,
+   755
+  ],
+  "height_blocks": 7,
+  "passage_z": [
+   745,
+   753
+  ],
+  "road_z": 749,
+  "note": "v2结构保留（7米为用户提供，无官方出处，标估算）；只修地面与前后道路"
+ },
+ "ground_rubble_center": [
+  944,
+  694
+ ]
+}

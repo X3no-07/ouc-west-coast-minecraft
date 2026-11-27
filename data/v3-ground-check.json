@@ -1,0 +1,622 @@
+{
+ "patch_944_694": {
+  "sentinel_class": 30,
+  "detail": "bare=True support=4/9 class=30 (npz 126x254, bounds 120.011,35.76925,120.039,35.78055)",
+  "top_mix_80x80": {
+   "minecraft:grass_block": 3818,
+   "minecraft:gray_concrete_powder": 1038,
+   "minecraft:cyan_terracotta": 1034,
+   "minecraft:stone_bricks": 394,
+   "minecraft:white_concrete": 93,
+   "minecraft:cracked_stone_bricks": 80,
+   "minecraft:cobblestone": 44,
+   "minecraft:stone": 30,
+   "minecraft:oxeye_daisy": 19,
+   "minecraft:azure_bluet": 11
+  }
+ },
+ "fixes": [
+  {
+   "material": "stone_bricks",
+   "n_cells": 14484,
+   "reason": "OSM place=square 浩海广场（实测铺装，Sentinel 30 类）"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 13565,
+   "reason": "OSM place=square 浩海广场（实测铺装，Sentinel 30 类）"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 10621,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 6925,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 6523,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 6420,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 5069,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 4347,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 3423,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 3207,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 2954,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 2701,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 2588,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1938,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1922,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1915,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1632,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1623,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1567,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1486,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1365,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1355,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1172,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1026,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 1002,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 940,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 908,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 815,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 813,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 808,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 787,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 760,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 725,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 696,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 688,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 652,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 642,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 611,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 579,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 493,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 446,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 419,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 408,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 390,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 366,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 349,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 336,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 332,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 325,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 303,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 303,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 264,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 256,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 255,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 249,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 221,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 210,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 209,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 195,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 179,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 175,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 170,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 162,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 161,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 156,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 155,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 149,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 133,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 133,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 131,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 130,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 126,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 122,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 112,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 111,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 102,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 99,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 95,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 94,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 88,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 87,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 86,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 79,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 78,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 77,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 77,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 73,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 66,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 63,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 63,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 63,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 62,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 62,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 60,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 55,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 51,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 50,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 47,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 45,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 37,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 35,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "stone_bricks",
+   "n_cells": 33,
+   "reason": "adjoins building skirt/plaza"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 33,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 30,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 25,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 24,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 24,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 24,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 23,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  },
+  {
+   "material": "grass_block",
+   "n_cells": 23,
+   "reason": "open ground, no OSM feature (construction-era bare ground)"
+  }
+ ],
+ "patches_left_alone": [
+  {
+   "n_cells": 722,
+   "bbox": [
+    843,
+    185,
+    915,
+    237
+   ],
+   "mix": {
+    "minecraft:white_concrete": 722
+   }
+  },
+  {
+   "n_cells": 597,
+   "bbox": [
+    679,
+    251,
+    747,
+    360
+   ],
+   "mix": {
+    "minecraft:white_concrete": 597
+   }
+  },
+  {
+   "n_cells": 349,
+   "bbox": [
+    1131,
+    471,
+    1237,
+    515
+   ],
+   "mix": {
+    "minecraft:white_concrete": 349
+   }
+  }
+ ],
+ "courts_terrain": {
+  "info-north-basketball": {
+   "y_min": -48,
+   "y_max": -44,
+   "y_modal": -47,
+   "sampled": 576
+  },
+  "west-sports-basketball": {
+   "y_min": -35,
+   "y_max": -30,
+   "y_modal": -34,
+   "sampled": 1060
+  }
+ }
+}

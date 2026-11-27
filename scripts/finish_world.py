@@ -41,7 +41,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from anvil import (TAG_COMPOUND, decode_indices, find, loads, dumps,
+from anvil import (TAG_COMPOUND, base_name, decode_indices, find, loads, dumps,
                    read_region, write_region, set_blocks_in_chunk)
 
 AIR = {"minecraft:air", "minecraft:cave_air", "minecraft:void_air"}
@@ -195,6 +195,12 @@ class World:
         return cache[sec_y]
 
     def get_block(self, x, y, z):
+        """Block name (no properties) at absolute coords, or None."""
+        value = self.get_block_state(x, y, z)
+        return base_name(value) if value else None
+
+    def get_block_state(self, x, y, z):
+        """Full block state string at absolute coords, or None."""
         cx, cz = x // 16, z // 16
         rx, rz = cx // 32, cz // 32
         self._load_region(rx, rz)

@@ -1,0 +1,906 @@
+{
+ "missing_buildings": [
+  {
+   "id": 1358974098,
+   "tags": {
+    "building": "university",
+    "name": "综合教学楼"
+   },
+   "mc_bbox": [
+    1430,
+    1105,
+    1498,
+    1150
+   ],
+   "mc_center": [
+    1450,
+    1125
+   ],
+   "area_cells": 2918,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338289,
+   "tags": {
+    "building": "university",
+    "name": "海洋科学与工程实验楼"
+   },
+   "mc_bbox": [
+    1418,
+    1173,
+    1546,
+    1237
+   ],
+   "mc_center": [
+    1472,
+    1200
+   ],
+   "area_cells": 7510,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338290,
+   "tags": {
+    "building": "university",
+    "name": "国家工程实验楼"
+   },
+   "mc_bbox": [
+    1420,
+    1025,
+    1557,
+    1082
+   ],
+   "mc_center": [
+    1485,
+    1055
+   ],
+   "area_cells": 6308,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338291,
+   "tags": {
+    "building": "university",
+    "name": "新能源新材料实验楼"
+   },
+   "mc_bbox": [
+    1218,
+    1146,
+    1345,
+    1228
+   ],
+   "mc_center": [
+    1269,
+    1179
+   ],
+   "area_cells": 9727,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338292,
+   "tags": {
+    "building": "university",
+    "name": "石油学科实验楼"
+   },
+   "mc_bbox": [
+    1225,
+    1025,
+    1337,
+    1092
+   ],
+   "mc_center": [
+    1270,
+    1052
+   ],
+   "area_cells": 6965,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338293,
+   "tags": {
+    "building": "yes",
+    "name": "观海苑餐厅"
+   },
+   "mc_bbox": [
+    1172,
+    1006,
+    1216,
+    1033
+   ],
+   "mc_center": [
+    1189,
+    1017
+   ],
+   "area_cells": 1175,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338294,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓6"
+   },
+   "mc_bbox": [
+    1112,
+    1145,
+    1168,
+    1164
+   ],
+   "mc_center": [
+    1135,
+    1152
+   ],
+   "area_cells": 932,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338295,
+   "tags": {
+    "building": "apartments"
+   },
+   "mc_bbox": [
+    1085,
+    1144,
+    1105,
+    1163
+   ],
+   "mc_center": [
+    1093,
+    1152
+   ],
+   "area_cells": 358,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338296,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓5"
+   },
+   "mc_bbox": [
+    1016,
+    1143,
+    1079,
+    1173
+   ],
+   "mc_center": [
+    1039,
+    1156
+   ],
+   "area_cells": 1165,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338297,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓7"
+   },
+   "mc_bbox": [
+    1027,
+    1186,
+    1101,
+    1220
+   ],
+   "mc_center": [
+    1053,
+    1200
+   ],
+   "area_cells": 1512,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338298,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓3"
+   },
+   "mc_bbox": [
+    1005,
+    1050,
+    1063,
+    1090
+   ],
+   "mc_center": [
+    1027,
+    1068
+   ],
+   "area_cells": 1298,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338299,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓4"
+   },
+   "mc_bbox": [
+    1074,
+    1055,
+    1156,
+    1077
+   ],
+   "mc_center": [
+    1110,
+    1066
+   ],
+   "area_cells": 1400,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338300,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓2"
+   },
+   "mc_bbox": [
+    1075,
+    992,
+    1156,
+    1013
+   ],
+   "mc_center": [
+    1111,
+    1002
+   ],
+   "area_cells": 1274,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1359338301,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓1"
+   },
+   "mc_bbox": [
+    1002,
+    972,
+    1066,
+    1011
+   ],
+   "mc_center": [
+    1028,
+    986
+   ],
+   "area_cells": 1374,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1412220107,
+   "tags": {
+    "building": "apartments",
+    "name": "研究生公寓8"
+   },
+   "mc_bbox": [
+    1112,
+    1192,
+    1186,
+    1220
+   ],
+   "mc_center": [
+    1151,
+    1205
+   ],
+   "area_cells": 1226,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1412220109,
+   "tags": {
+    "building": "yes",
+    "name": "文体中心"
+   },
+   "mc_bbox": [
+    1024,
+    1013,
+    1064,
+    1044
+   ],
+   "mc_center": [
+    1048,
+    1025
+   ],
+   "area_cells": 1166,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1412220117,
+   "tags": {
+    "building:levels": "3",
+    "building:part": "yes"
+   },
+   "mc_bbox": [
+    1440,
+    1072,
+    1447,
+    1106
+   ],
+   "mc_center": [
+    1443,
+    1085
+   ],
+   "area_cells": 197,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1412220118,
+   "tags": {
+    "building:levels": "2",
+    "building:part": "yes"
+   },
+   "mc_bbox": [
+    1437,
+    1149,
+    1440,
+    1173
+   ],
+   "mc_center": [
+    1439,
+    1158
+   ],
+   "area_cells": 64,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504261,
+   "tags": {
+    "building": "dormitory",
+    "name": "学8"
+   },
+   "mc_bbox": [
+    -113,
+    1631,
+    -23,
+    1652
+   ],
+   "mc_center": [
+    -77,
+    1639
+   ],
+   "area_cells": 1839,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504262,
+   "tags": {
+    "building": "dormitory",
+    "name": "学6"
+   },
+   "mc_bbox": [
+    -36,
+    1595,
+    54,
+    1616
+   ],
+   "mc_center": [
+    0,
+    1604
+   ],
+   "area_cells": 1839,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504263,
+   "tags": {
+    "building": "dormitory",
+    "name": "学4"
+   },
+   "mc_bbox": [
+    35,
+    1556,
+    125,
+    1576
+   ],
+   "mc_center": [
+    71,
+    1564
+   ],
+   "area_cells": 1839,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504264,
+   "tags": {
+    "building": "dormitory",
+    "name": "学2"
+   },
+   "mc_bbox": [
+    100,
+    1519,
+    189,
+    1540
+   ],
+   "mc_center": [
+    135,
+    1527
+   ],
+   "area_cells": 1839,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504265,
+   "tags": {
+    "building": "dormitory",
+    "name": "学3"
+   },
+   "mc_bbox": [
+    36,
+    1479,
+    125,
+    1499
+   ],
+   "mc_center": [
+    71,
+    1487
+   ],
+   "area_cells": 1839,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504266,
+   "tags": {
+    "building": "dormitory",
+    "name": "学5"
+   },
+   "mc_bbox": [
+    -34,
+    1519,
+    55,
+    1539
+   ],
+   "mc_center": [
+    2,
+    1527
+   ],
+   "area_cells": 1840,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504267,
+   "tags": {
+    "building": "dormitory",
+    "name": "学1"
+   },
+   "mc_bbox": [
+    105,
+    1445,
+    184,
+    1499
+   ],
+   "mc_center": [
+    145,
+    1466
+   ],
+   "area_cells": 2254,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504268,
+   "tags": {
+    "building": "dormitory",
+    "name": "学7"
+   },
+   "mc_bbox": [
+    -110,
+    1558,
+    -32,
+    1612
+   ],
+   "mc_center": [
+    -71,
+    1579
+   ],
+   "area_cells": 2255,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1510504270,
+   "tags": {
+    "building": "yes",
+    "name": "珠山餐厅"
+   },
+   "mc_bbox": [
+    200,
+    1421,
+    307,
+    1496
+   ],
+   "mc_center": [
+    244,
+    1459
+   ],
+   "area_cells": 6797,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524352137,
+   "tags": {
+    "building": "university",
+    "name": "海洋楼"
+   },
+   "mc_bbox": [
+    1436,
+    826,
+    1525,
+    916
+   ],
+   "mc_center": [
+    1474,
+    862
+   ],
+   "area_cells": 6306,
+   "overlap_frac": 0.2
+  },
+  {
+   "id": 1524352138,
+   "tags": {
+    "building": "university",
+    "name": "未来楼"
+   },
+   "mc_bbox": [
+    1288,
+    794,
+    1364,
+    876
+   ],
+   "mc_center": [
+    1317,
+    833
+   ],
+   "area_cells": 5224,
+   "overlap_frac": 0.29
+  },
+  {
+   "id": 1524352139,
+   "tags": {
+    "building": "university",
+    "name": "信息南楼（原计算机楼）"
+   },
+   "mc_bbox": [
+    986,
+    780,
+    1045,
+    852
+   ],
+   "mc_center": [
+    1008,
+    811
+   ],
+   "area_cells": 2326,
+   "overlap_frac": 0.1
+  },
+  {
+   "id": 1524352140,
+   "tags": {
+    "building": "university",
+    "name": "信息南楼（原计算机楼）"
+   },
+   "mc_bbox": [
+    1020,
+    777,
+    1068,
+    806
+   ],
+   "mc_center": [
+    1039,
+    789
+   ],
+   "area_cells": 1392,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524352141,
+   "tags": {
+    "building": "university",
+    "name": "信息北楼"
+   },
+   "mc_bbox": [
+    1045,
+    582,
+    1096,
+    616
+   ],
+   "mc_center": [
+    1066,
+    596
+   ],
+   "area_cells": 1374,
+   "overlap_frac": 0.2
+  },
+  {
+   "id": 1524352143,
+   "tags": {
+    "building": "university",
+    "name": "信息北楼"
+   },
+   "mc_bbox": [
+    1020,
+    536,
+    1094,
+    562
+   ],
+   "mc_center": [
+    1065,
+    548
+   ],
+   "area_cells": 1274,
+   "overlap_frac": 0.2
+  },
+  {
+   "id": 1524352145,
+   "tags": {
+    "building": "yes"
+   },
+   "mc_bbox": [
+    1046,
+    437,
+    1099,
+    447
+   ],
+   "mc_center": [
+    1067,
+    441
+   ],
+   "area_cells": 530,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524718883,
+   "tags": {
+    "building": "apartments"
+   },
+   "mc_bbox": [
+    395,
+    248,
+    469,
+    309
+   ],
+   "mc_center": [
+    423,
+    271
+   ],
+   "area_cells": 2303,
+   "overlap_frac": 0.14
+  },
+  {
+   "id": 1524718884,
+   "tags": {
+    "building": "apartments"
+   },
+   "mc_bbox": [
+    485,
+    335,
+    560,
+    352
+   ],
+   "mc_center": [
+    515,
+    342
+   ],
+   "area_cells": 1127,
+   "overlap_frac": 0.2
+  },
+  {
+   "id": 1524718886,
+   "tags": {
+    "building": "apartments"
+   },
+   "mc_bbox": [
+    404,
+    189,
+    472,
+    211
+   ],
+   "mc_center": [
+    431,
+    198
+   ],
+   "area_cells": 1423,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524718887,
+   "tags": {
+    "building": "apartments"
+   },
+   "mc_bbox": [
+    482,
+    189,
+    560,
+    211
+   ],
+   "mc_center": [
+    513,
+    198
+   ],
+   "area_cells": 1645,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524718888,
+   "tags": {
+    "building": "apartments"
+   },
+   "mc_bbox": [
+    579,
+    190,
+    642,
+    211
+   ],
+   "mc_center": [
+    604,
+    199
+   ],
+   "area_cells": 1307,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524718889,
+   "tags": {
+    "building": "yes",
+    "name": "望海餐厅"
+   },
+   "mc_bbox": [
+    584,
+    299,
+    635,
+    350
+   ],
+   "mc_center": [
+    604,
+    319
+   ],
+   "area_cells": 2611,
+   "overlap_frac": 0.2
+  },
+  {
+   "id": 1524718890,
+   "tags": {
+    "building": "yes"
+   },
+   "mc_bbox": [
+    587,
+    234,
+    637,
+    282
+   ],
+   "mc_center": [
+    607,
+    253
+   ],
+   "area_cells": 2391,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524718900,
+   "tags": {
+    "building": "commercial",
+    "name": "听海空间"
+   },
+   "mc_bbox": [
+    1294,
+    301,
+    1334,
+    327
+   ],
+   "mc_center": [
+    1312,
+    313
+   ],
+   "area_cells": 963,
+   "overlap_frac": 0.17
+  },
+  {
+   "id": 1524718904,
+   "tags": {
+    "building": "apartments",
+    "name": "听海苑5号楼"
+   },
+   "mc_bbox": [
+    1265,
+    255,
+    1357,
+    290
+   ],
+   "mc_center": [
+    1312,
+    274
+   ],
+   "area_cells": 1626,
+   "overlap_frac": 0.25
+  },
+  {
+   "id": 1524718907,
+   "tags": {
+    "building": "apartments",
+    "name": "听海苑2号楼"
+   },
+   "mc_bbox": [
+    1283,
+    320,
+    1363,
+    355
+   ],
+   "mc_center": [
+    1327,
+    337
+   ],
+   "area_cells": 1461,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1524718908,
+   "tags": {
+    "building": "apartments",
+    "name": "听海苑3号楼"
+   },
+   "mc_bbox": [
+    1263,
+    301,
+    1283,
+    355
+   ],
+   "mc_center": [
+    1271,
+    323
+   ],
+   "area_cells": 1047,
+   "overlap_frac": 0.2
+  },
+  {
+   "id": 1564919308,
+   "tags": {
+    "building": "yes"
+   },
+   "mc_bbox": [
+    402,
+    1721,
+    496,
+    1827
+   ],
+   "mc_center": [
+    446,
+    1767
+   ],
+   "area_cells": 8756,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1564919311,
+   "tags": {
+    "building": "yes"
+   },
+   "mc_bbox": [
+    1233,
+    -416,
+    1342,
+    -260
+   ],
+   "mc_center": [
+    1284,
+    -341
+   ],
+   "area_cells": 12623,
+   "overlap_frac": 0.0
+  },
+  {
+   "id": 1564919312,
+   "tags": {
+    "building": "yes"
+   },
+   "mc_bbox": [
+    2075,
+    -470,
+    2187,
+    -322
+   ],
+   "mc_center": [
+    2110,
+    -413
+   ],
+   "area_cells": 6530,
+   "overlap_frac": 0.0
+  }
+ ],
+ "matched_count": 14
+}

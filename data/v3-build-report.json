@@ -1,0 +1,1116 @@
+{
+ "world": "C:\\Users\\lenovo\\Documents\\Codex\\2026-11-25\\wo\\work\\ouc-campus\\staging-v3\\OUC-West-Coast-v3",
+ "ground_fixes_present": true,
+ "checks": [
+  {
+   "name": "海洋楼",
+   "present": true,
+   "modal_top_inside": -18,
+   "modal_ground_outside": -51,
+   "sampled_cells": 205
+  },
+  {
+   "name": "望海餐厅北侧无名楼",
+   "present": true,
+   "modal_top_inside": -14,
+   "modal_ground_outside": -30,
+   "sampled_cells": 216
+  }
+ ],
+ "info_north": {
+  "long_wing": {
+   "roof_y": -29,
+   "clutter_cleared": 149,
+   "roof_cells_set": 1207,
+   "window_cells": 303,
+   "pier_cells": 289,
+   "roof_target": "minecraft:light_gray_concrete"
+  },
+  "main": {
+   "roof_y": -20,
+   "clutter_cleared": 290,
+   "roof_cells_set": 77,
+   "window_cells": 350,
+   "pier_cells": 660,
+   "roof_target": "minecraft:gray_concrete"
+  },
+  "west_wing": {
+   "roof_y": -29,
+   "clutter_cleared": 77,
+   "roof_cells_set": 142,
+   "window_cells": 293,
+   "pier_cells": 352,
+   "roof_target": "minecraft:light_gray_concrete"
+  },
+  "doors": [
+   {
+    "name": "main-west",
+    "door": [
+     1050,
+     -44,
+     596
+    ],
+    "facing": "west",
+    "threshold": [
+     1049,
+     -45,
+     596
+    ]
+   },
+   {
+    "name": "long-south",
+    "door": [
+     1050,
+     -44,
+     557
+    ],
+    "facing": "south",
+    "threshold": [
+     1050,
+     -45,
+     558
+    ]
+   },
+   {
+    "name": "west-east",
+    "door": [
+     1037,
+     -44,
+     585
+    ],
+    "facing": "east",
+    "threshold": [
+     1038,
+     -45,
+     585
+    ]
+   }
+  ]
+ },
+ "seam_door": {
+  "building": "听海苑2号楼",
+  "wall": "north",
+  "wall_z": 320,
+  "door": [
+   1363,
+   -49,
+   320
+  ],
+  "facing": "north",
+  "threshold": [
+   1363,
+   -50,
+   319
+  ],
+  "ground_y": -50,
+  "player": [
+   1358,
+   -36,
+   302
+  ],
+  "note": "门在2号楼北墙、距1号楼西墙交角2格（交角柱X1363为两楼共用墙面，门开在其西侧北墙上，朝北向玩家与步道）"
+ },
+ "door_sweep": [
+  {
+   "name": "学习综合体·图书馆中庭采光顶",
+   "door": null,
+   "note": "非建筑（采光顶），跳过"
+  },
+  {
+   "name": "学习综合体·图书馆主楼",
+   "door": [
+    1258,
+    -44,
+    686
+   ],
+   "facing": "east",
+   "side": "east",
+   "ground_y": -45,
+   "threshold": [
+    1259,
+    -45,
+    686
+   ]
+  },
+  {
+   "name": "学习综合体·北楼（西侧）",
+   "door": [
+    1168,
+    -26,
+    600
+   ],
+   "facing": "north",
+   "side": "north",
+   "ground_y": -27,
+   "threshold": [
+    1168,
+    -27,
+    599
+   ]
+  },
+  {
+   "name": "学习综合体·南楼（西侧）",
+   "door": [
+    1186,
+    -28,
+    774
+   ],
+   "facing": "east",
+   "side": "east",
+   "ground_y": -29,
+   "threshold": [
+    1187,
+    -29,
+    774
+   ]
+  },
+  {
+   "name": "学习综合体·北楼（东侧低区）",
+   "door": null,
+   "note": "四面均无合格门柱：south(1实心柱均门槛不合格)；east无实心墙柱；west(1实心柱均门槛不合格)；north无实心墙柱",
+   "ground_y": -25
+  },
+  {
+   "name": "学习综合体·南楼（东侧低区）",
+   "door": [
+    1214,
+    -47,
+    802
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -48,
+   "threshold": [
+    1214,
+    -48,
+    803
+   ]
+  },
+  {
+   "name": "学习综合体·西北连廊",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west(1实心柱均门槛不合格)；north(35实心柱均门槛不合格)",
+   "ground_y": -36
+  },
+  {
+   "name": "学习综合体·东北连廊",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -36
+  },
+  {
+   "name": "学习综合体·西南连廊",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -24
+  },
+  {
+   "name": "学习综合体·东南连廊",
+   "door": null,
+   "note": "四面均无合格门柱：east无实心墙柱；west无实心墙柱；north无实心墙柱；south无实心墙柱",
+   "ground_y": -29
+  },
+  {
+   "name": "海德楼",
+   "door": [
+    1360,
+    -49,
+    644
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -50,
+   "threshold": [
+    1360,
+    -50,
+    645
+   ]
+  },
+  {
+   "name": "海德楼北翼",
+   "door": [
+    1390,
+    -44,
+    570
+   ],
+   "facing": "east",
+   "side": "east",
+   "ground_y": -45,
+   "threshold": [
+    1391,
+    -45,
+    570
+   ]
+  },
+  {
+   "name": "智慧海洋楼",
+   "door": [
+    1520,
+    -44,
+    845
+   ],
+   "facing": "east",
+   "side": "east",
+   "ground_y": -45,
+   "threshold": [
+    1521,
+    -45,
+    845
+   ]
+  },
+  {
+   "name": "智慧海洋楼东翼",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -18
+  },
+  {
+   "name": "智慧海洋楼东北翼",
+   "door": null,
+   "note": "四面均无合格门柱：south(17实心柱均门槛不合格)；east无实心墙柱；west(1实心柱均门槛不合格)；north无实心墙柱",
+   "ground_y": -42
+  },
+  {
+   "name": "望海苑东侧院落宿舍",
+   "door": null,
+   "note": "首层实心（中心柱524,281 地面以上仅0/3为空），不开门",
+   "ground_y": -28
+  },
+  {
+   "name": "望海苑西侧院落宿舍",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": 6
+  },
+  {
+   "name": "望海苑南侧宿舍（东）",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": 0
+  },
+  {
+   "name": "望海苑南侧宿舍（西）",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": 5
+  },
+  {
+   "name": "望海苑二期宿舍（西）",
+   "door": null,
+   "note": "首层实心（中心柱438,200 地面以上仅0/3为空），不开门",
+   "ground_y": 5
+  },
+  {
+   "name": "望海苑二期宿舍（中）",
+   "door": null,
+   "note": "首层实心（中心柱521,200 地面以上仅0/3为空），不开门",
+   "ground_y": -1
+  },
+  {
+   "name": "望海苑二期宿舍（东）",
+   "door": null,
+   "note": "首层实心（中心柱610,201 地面以上仅0/3为空），不开门",
+   "ground_y": -2
+  },
+  {
+   "name": "望海餐厅",
+   "door": [
+    584,
+    -28,
+    325
+   ],
+   "facing": "west",
+   "side": "west",
+   "ground_y": -29,
+   "threshold": [
+    583,
+    -29,
+    325
+   ]
+  },
+  {
+   "name": "西区二期食堂",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -12
+  },
+  {
+   "name": "听海空间",
+   "door": [
+    1316,
+    -44,
+    324
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -45,
+   "threshold": [
+    1316,
+    -45,
+    325
+   ]
+  },
+  {
+   "name": "听海苑7号楼",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west(15实心柱均门槛不合格)；north无实心墙柱",
+   "ground_y": -36
+  },
+  {
+   "name": "听海苑8号楼",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east(28实心柱均门槛不合格)；west(15实心柱均门槛不合格)；north(29实心柱均门槛不合格)",
+   "ground_y": -47
+  },
+  {
+   "name": "听海苑4号楼",
+   "door": null,
+   "note": "首层实心（中心柱1392,261 地面以上仅1/3为空），不开门",
+   "ground_y": -45
+  },
+  {
+   "name": "听海苑5号楼",
+   "door": [
+    1312,
+    -47,
+    290
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -48,
+   "threshold": [
+    1312,
+    -48,
+    291
+   ]
+  },
+  {
+   "name": "听海苑6号楼",
+   "door": [
+    1264,
+    -45,
+    286
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -46,
+   "threshold": [
+    1264,
+    -46,
+    287
+   ]
+  },
+  {
+   "name": "听海苑1号楼",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -29
+  },
+  {
+   "name": "听海苑3号楼",
+   "door": [
+    1264,
+    -44,
+    332
+   ],
+   "facing": "west",
+   "side": "west",
+   "ground_y": -45,
+   "threshold": [
+    1263,
+    -45,
+    332
+   ]
+  },
+  {
+   "name": "听海苑2号楼",
+   "door": [
+    1327,
+    -49,
+    355
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -50,
+   "threshold": [
+    1327,
+    -50,
+    356
+   ]
+  },
+  {
+   "name": "听海餐厅",
+   "door": [
+    1182,
+    -43,
+    321
+   ],
+   "facing": "west",
+   "side": "west",
+   "ground_y": -44,
+   "threshold": [
+    1181,
+    -44,
+    321
+   ]
+  },
+  {
+   "name": "听海苑9号楼",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -8
+  },
+  {
+   "name": "未来楼",
+   "door": [
+    1327,
+    -49,
+    876
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -50,
+   "threshold": [
+    1327,
+    -50,
+    877
+   ]
+  },
+  {
+   "name": "信息南楼（原计算机楼）",
+   "door": null,
+   "note": "四面均无合格门柱：south无实心墙柱；east无实心墙柱；west无实心墙柱；north无实心墙柱",
+   "ground_y": -25
+  },
+  {
+   "name": "信息南楼（原计算机楼）",
+   "door": [
+    1045,
+    -44,
+    806
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -45,
+   "threshold": [
+    1045,
+    -45,
+    807
+   ]
+  },
+  {
+   "name": "unnamed-144",
+   "door": [
+    1037,
+    -43,
+    518
+   ],
+   "facing": "south",
+   "side": "south",
+   "ground_y": -44,
+   "threshold": [
+    1037,
+    -44,
+    519
+   ]
+  },
+  {
+   "name": "unnamed-145",
+   "door": null,
+   "note": "首层实心（中心柱1072,442 地面以上仅0/3为空），不开门",
+   "ground_y": -31
+  },
+  {
+   "name": "unnamed-146",
+   "door": [
+    1099,
+    -41,
+    416
+   ],
+   "facing": "east",
+   "side": "east",
+   "ground_y": -42,
+   "threshold": [
+    1100,
+    -42,
+    416
+   ]
+  }
+ ],
+ "door_approach_repairs": [
+  {
+   "name": "学习综合体·图书馆主楼",
+   "door": [
+    1258,
+    -44,
+    686
+   ],
+   "status": "built",
+   "steps": [
+    {
+     "cell": [
+      1260,
+      686
+     ],
+     "top": -46
+    },
+    {
+     "cell": [
+      1261,
+      686
+     ],
+     "top": -47
+    },
+    {
+     "cell": [
+      1262,
+      686
+     ],
+     "top": -48
+    }
+   ],
+   "trapdoor_removed": [
+    "minecraft:iron_trapdoor"
+   ]
+  },
+  {
+   "name": "学习综合体·北楼（西侧）",
+   "door": [
+    1168,
+    -26,
+    600
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "学习综合体·南楼（西侧）",
+   "door": [
+    1186,
+    -28,
+    774
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "学习综合体·南楼（东侧低区）",
+   "door": [
+    1214,
+    -47,
+    802
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "海德楼",
+   "door": [
+    1360,
+    -49,
+    644
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "海德楼北翼",
+   "door": [
+    1390,
+    -44,
+    570
+   ],
+   "status": "built",
+   "steps": [
+    {
+     "cell": [
+      1392,
+      570
+     ],
+     "top": -46
+    },
+    {
+     "cell": [
+      1393,
+      570
+     ],
+     "top": -47
+    },
+    {
+     "cell": [
+      1394,
+      570
+     ],
+     "top": -48
+    },
+    {
+     "cell": [
+      1395,
+      570
+     ],
+     "top": -49
+    },
+    {
+     "cell": [
+      1396,
+      570
+     ],
+     "top": -50
+    }
+   ],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "智慧海洋楼",
+   "door": [
+    1520,
+    -44,
+    845
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "望海餐厅",
+   "door": [
+    584,
+    -28,
+    325
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "听海空间",
+   "door": [
+    1316,
+    -44,
+    324
+   ],
+   "status": "built",
+   "steps": [
+    {
+     "cell": [
+      1316,
+      326
+     ],
+     "top": -46
+    },
+    {
+     "cell": [
+      1316,
+      327
+     ],
+     "top": -47
+    },
+    {
+     "cell": [
+      1316,
+      328
+     ],
+     "top": -48
+    },
+    {
+     "cell": [
+      1316,
+      329
+     ],
+     "top": -49
+    }
+   ],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "听海苑5号楼",
+   "door": [
+    1312,
+    -47,
+    290
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "听海苑6号楼",
+   "door": [
+    1264,
+    -45,
+    286
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "听海苑3号楼",
+   "door": [
+    1264,
+    -44,
+    332
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "听海苑2号楼",
+   "door": [
+    1327,
+    -49,
+    355
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "听海餐厅",
+   "door": [
+    1182,
+    -43,
+    321
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "未来楼",
+   "door": [
+    1327,
+    -49,
+    876
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "信息南楼（原计算机楼）",
+   "door": [
+    1045,
+    -44,
+    806
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "unnamed-144",
+   "door": [
+    1037,
+    -43,
+    518
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  },
+  {
+   "name": "unnamed-146",
+   "door": [
+    1099,
+    -41,
+    416
+   ],
+   "status": "ok",
+   "steps": [],
+   "trapdoor_removed": []
+  }
+ ],
+ "ground_fixes_applied": 121921,
+ "roads": {
+  "paved": 73391,
+  "veg_cleared": 4266,
+  "skipped_plaza_water_tree": 267,
+  "skipped_building": 378,
+  "skipped_out_of_bounds": 631
+ },
+ "courts": [
+  {
+   "area": "info-north-basketball",
+   "courts": [
+    {
+     "rect": [
+      1140,
+      477,
+      1167,
+      491
+     ],
+     "surface_y": -45,
+     "centre": [
+      1154,
+      -45,
+      484
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      1171,
+      477,
+      1198,
+      491
+     ],
+     "surface_y": -46,
+     "centre": [
+      1185,
+      -46,
+      484
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      1202,
+      477,
+      1229,
+      491
+     ],
+     "surface_y": -47,
+     "centre": [
+      1216,
+      -47,
+      484
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      1140,
+      495,
+      1167,
+      509
+     ],
+     "surface_y": -45,
+     "centre": [
+      1154,
+      -45,
+      502
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      1171,
+      495,
+      1198,
+      509
+     ],
+     "surface_y": -46,
+     "centre": [
+      1185,
+      -46,
+      502
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      1202,
+      495,
+      1229,
+      509
+     ],
+     "surface_y": -47,
+     "centre": [
+      1216,
+      -47,
+      502
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    }
+   ]
+  },
+  {
+   "area": "west-sports-basketball",
+   "courts": [
+    {
+     "rect": [
+      700,
+      196,
+      727,
+      210
+     ],
+     "surface_y": -33,
+     "centre": [
+      714,
+      -33,
+      203
+     ],
+     "highs_capped": 56,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      731,
+      196,
+      758,
+      210
+     ],
+     "surface_y": -34,
+     "centre": [
+      745,
+      -34,
+      203
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      762,
+      196,
+      789,
+      210
+     ],
+     "surface_y": -35,
+     "centre": [
+      776,
+      -35,
+      203
+     ],
+     "highs_capped": 37,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      793,
+      196,
+      820,
+      210
+     ],
+     "surface_y": -34,
+     "centre": [
+      807,
+      -34,
+      203
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      700,
+      214,
+      727,
+      228
+     ],
+     "surface_y": -33,
+     "centre": [
+      714,
+      -33,
+      221
+     ],
+     "highs_capped": 67,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      731,
+      214,
+      758,
+      228
+     ],
+     "surface_y": -34,
+     "centre": [
+      745,
+      -34,
+      221
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      762,
+      214,
+      789,
+      228
+     ],
+     "surface_y": -35,
+     "centre": [
+      776,
+      -35,
+      221
+     ],
+     "highs_capped": 0,
+     "highs_left": 0
+    },
+    {
+     "rect": [
+      793,
+      214,
+      820,
+      228
+     ],
+     "surface_y": -35,
+     "centre": [
+      807,
+      -35,
+      221
+     ],
+     "highs_capped": 6,
+     "highs_left": 0
+    }
+   ]
+  }
+ ],
+ "east_gate": {
+  "beam_restored": 18,
+  "passage_paved": 18,
+  "west_paved": 315,
+  "east_paved": 387
+ },
+ "missing_buildings": [
+  {
+   "name": "海洋楼",
+   "status": "already present in world",
+   "check": {
+    "name": "海洋楼",
+    "present": true,
+    "modal_top_inside": -18,
+    "modal_ground_outside": -51,
+    "sampled_cells": 205
+   }
+  },
+  {
+   "name": "望海餐厅北侧无名楼",
+   "status": "already present in world",
+   "check": {
+    "name": "望海餐厅北侧无名楼",
+    "present": true,
+    "modal_top_inside": -14,
+    "modal_ground_outside": -30,
+    "sampled_cells": 216
+   }
+  }
+ ],
+ "cells_changed": 178541,
+ "elapsed_s": 75.3,
+ "level_dat": {
+  "old_name": "中国海洋大学西海岸校区v2",
+  "new_name": "中国海洋大学西海岸校区v3",
+  "old_lastplayed": 1795709830198,
+  "new_lastplayed": 1795721957731,
+  "spawn": [
+   1361,
+   -47,
+   711
+  ]
+ }
+}

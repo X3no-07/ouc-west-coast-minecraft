@@ -1,0 +1,295 @@
+{
+ "validate_mojang": {
+  "returncode": 0,
+  "stdout": "Vanilla read level.dat: 中国海洋大学西海岸校区v3 spawn (1361, 711)\nVanilla decoded 8,253 of 8,253 chunks across 10 regions.\n",
+  "stderr": ""
+ },
+ "info_north": {
+  "long_wing": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 1207,
+    "minecraft:cut_sandstone_slab": 88,
+    "minecraft:air": 1
+   },
+   "clutter_above_roof": 0,
+   "ground_floor_glass_cells": 130
+  },
+  "main": {
+   "roof_top_mix": {
+    "minecraft:gray_concrete": 1440,
+    "minecraft:air": 30
+   },
+   "clutter_above_roof": 0,
+   "ground_floor_glass_cells": 80
+  },
+  "west_wing": {
+   "roof_top_mix": {
+    "minecraft:light_gray_concrete": 1026,
+    "minecraft:air": 54
+   },
+   "clutter_above_roof": 0,
+   "ground_floor_glass_cells": 107
+  },
+  "doors": [
+   {
+    "name": "main-west",
+    "door": [
+     1050,
+     -44,
+     596
+    ],
+    "blocks_ok": true
+   },
+   {
+    "name": "long-south",
+    "door": [
+     1050,
+     -44,
+     557
+    ],
+    "blocks_ok": true
+   },
+   {
+    "name": "west-east",
+    "door": [
+     1037,
+     -44,
+     585
+    ],
+    "blocks_ok": true
+   }
+  ]
+ },
+ "seam_door": {
+  "door": [
+   1363,
+   -49,
+   320
+  ],
+  "facing": "north",
+  "blocks_ok": true,
+  "bfs_outside_to_inside": {
+   "found": true,
+   "path_len": 3,
+   "visited": 20,
+   "why": "ok"
+  }
+ },
+ "door_sweep": {
+  "doors_placed": 18,
+  "door_blocks_ok": 18,
+  "door_blocks_bad": [],
+  "bfs_checked": 18,
+  "bfs_ok": 18,
+  "bfs_fail": []
+ },
+ "east_gate_bfs": {
+  "from": [
+   1645,
+   749
+  ],
+  "to": [
+   1259,
+   686
+  ],
+  "goal_door": "学习综合体·图书馆主楼",
+  "found": true,
+  "path_len": 449,
+  "visited": 167011,
+  "why": "ok"
+ },
+ "courts": [
+  {
+   "area": "info-north-basketball",
+   "rect": [
+    1140,
+    477,
+    1167,
+    491
+   ],
+   "surface_y": -45,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "info-north-basketball",
+   "rect": [
+    1171,
+    477,
+    1198,
+    491
+   ],
+   "surface_y": -46,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "info-north-basketball",
+   "rect": [
+    1202,
+    477,
+    1229,
+    491
+   ],
+   "surface_y": -47,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "info-north-basketball",
+   "rect": [
+    1140,
+    495,
+    1167,
+    509
+   ],
+   "surface_y": -45,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "info-north-basketball",
+   "rect": [
+    1171,
+    495,
+    1198,
+    509
+   ],
+   "surface_y": -46,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "info-north-basketball",
+   "rect": [
+    1202,
+    495,
+    1229,
+    509
+   ],
+   "surface_y": -47,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    700,
+    196,
+    727,
+    210
+   ],
+   "surface_y": -33,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    731,
+    196,
+    758,
+    210
+   ],
+   "surface_y": -34,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    762,
+    196,
+    789,
+    210
+   ],
+   "surface_y": -35,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    793,
+    196,
+    820,
+    210
+   ],
+   "surface_y": -34,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    700,
+    214,
+    727,
+    228
+   ],
+   "surface_y": -33,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    731,
+    214,
+    758,
+    228
+   ],
+   "surface_y": -34,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    762,
+    214,
+    789,
+    228
+   ],
+   "surface_y": -35,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  },
+  {
+   "area": "west-sports-basketball",
+   "rect": [
+    793,
+    214,
+    820,
+    228
+   ],
+   "surface_y": -35,
+   "green_cells": 245,
+   "white_line_cells": 169,
+   "hoop_parts": 4
+  }
+ ],
+ "missing_buildings": [
+  {
+   "name": "海洋楼",
+   "status": "already present"
+  },
+  {
+   "name": "望海餐厅北侧无名楼",
+   "status": "already present"
+  }
+ ]
+}

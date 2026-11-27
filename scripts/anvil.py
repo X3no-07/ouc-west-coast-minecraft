@@ -173,20 +173,58 @@ def find_node(compound_nodes, name):
     return None
 
 
+def parse_state(state):
+    """Split a palette state string into (name, {prop: value})."""
+    if "[" not in state:
+        return state, {}
+    name, rest = state.split("[", 1)
+    props = {}
+    for item in rest[:-1].split(","):
+        if not item:
+            continue
+        key, value = item.split("=", 1)
+        props[key] = value
+    return name, props
+
+
+def format_state(name, props):
+    """Canonical state string: properties sorted by key."""
+    if not props:
+        return name
+    return name + "[" + ",".join(f"{k}={props[k]}" for k in sorted(props)) + "]"
+
+
+def base_name(state):
+    """Block name without any [properties] suffix."""
+    return state.split("[", 1)[0] if state else state
+
+
+def _palette_state(compound_value):
+    name = find(compound_value, "Name")[1]
+    props_node = find(compound_value, "Properties")
+    if props_node is None:
+        return name
+    props = {}
+    for tag, key, val in props_node[1]:
+        props[key] = val
+    return format_state(name, props)
+
+
 # ---- block_states -----------------------------------------------------
 def _bits_for_palette(n):
     return max(4, (n - 1).bit_length())
 
 
 def decode_indices(block_states):
-    """Return (indices list[4096], palette_names list) for one section."""
+    """Return (indices list[4096], palette_state_strings list) for one
+    section.  Palette entries keep their full block state
+    (e.g. 'minecraft:oak_door[facing=north,half=lower,...]') so that
+    re-encoding a section never silently strips Properties from stairs,
+    doors, trapdoors and the like."""
     tag, palette = find(block_states, "palette")
     if palette is None:
         return None, None
-    names = []
-    for compound_value in palette[1]:
-        name = find(compound_value, "Name")[1]
-        names.append(name)
+    names = [_palette_state(compound_value) for compound_value in palette[1]]
     if len(names) == 1:
         return [0] * 4096, names
     _, data = find(block_states, "data")
@@ -201,7 +239,8 @@ def decode_indices(block_states):
 
 
 def encode_indices(indices, names):
-    """Build a new block_states value (list of nodes) for the given cells."""
+    """Build a new block_states value (list of nodes) for the given cells.
+    `names` are full state strings; Properties are written back."""
     bits = _bits_for_palette(len(names))
     per_word = 64 // bits
     words = [0] * ((4096 + per_word - 1) // per_word)
@@ -210,9 +249,13 @@ def encode_indices(indices, names):
     # Convert to signed 64-bit for NBT long storage.
     signed = [w - (1 << 64) if w >= (1 << 63) else w for w in words]
     palette_nodes = []
-    for name in names:
-        # A list item is a compound *value* (a list of nodes), not a node.
-        palette_nodes.append([(TAG_STRING, "Name", name)])
+    for state in names:
+        name, props = parse_state(state)
+        entry = [(TAG_STRING, "Name", name)]
+        if props:
+            prop_nodes = [(TAG_STRING, k, props[k]) for k in sorted(props)]
+            entry.append((TAG_COMPOUND, "Properties", prop_nodes))
+        palette_nodes.append(entry)
     nodes = [(TAG_LIST, "palette", (TAG_COMPOUND, palette_nodes))]
     if len(names) > 1:
         nodes.append((TAG_LONG_ARRAY, "data", signed))
