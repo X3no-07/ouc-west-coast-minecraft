@@ -1,0 +1,5 @@
+name: "minecraft-campus-map"
+title: "Minecraft 校园地图"
+description: "用真实地图数据与全景实拍生成并修正 Minecraft Java 校园地图：逐栋对齐、按全景改外观、验证、打包、推 GitHub、导入 PCL。"
+category: "Work and knowledge"
+include_in_prompt: false
