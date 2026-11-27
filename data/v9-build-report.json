@@ -1,0 +1,212 @@
+{
+ "world": "/home/hatch/workspace/minecraft-ouc/staging-v9/OUC-West-Coast-v9",
+ "base": "v8",
+ "note": "v9: option 2 -- pave built-up area with WHITE concrete (lighter than light-grey sidewalk). Rect = footprint bbox + 30. OSM parks/pitches, plazas and courts kept green/untouched; trees skipped; outside rect untouched.",
+ "rect": [
+  365,
+  160,
+  1588,
+  946
+ ],
+ "footprint_bbox": [
+  395,
+  190,
+  1558,
+  916
+ ],
+ "rect_exclude": [
+  [
+   1259,
+   640,
+   1340,
+   760
+  ],
+  [
+   1110,
+   660,
+   1150,
+   740
+  ],
+  [
+   679,
+   250,
+   749,
+   357
+  ],
+  [
+   1131,
+   470,
+   1238,
+   516
+  ],
+  [
+   681,
+   183,
+   839,
+   241
+  ]
+ ],
+ "green_polys": [
+  {
+   "kind": "pitch",
+   "bbox": [
+    926,
+    933,
+    978,
+    981
+   ]
+  },
+  {
+   "kind": "park",
+   "bbox": [
+    1119,
+    822,
+    1616,
+    975
+   ]
+  },
+  {
+   "kind": "park",
+   "bbox": [
+    883,
+    953,
+    1015,
+    1230
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    1131,
+    470,
+    1238,
+    516
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    678,
+    250,
+    748,
+    361
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    756,
+    260,
+    817,
+    282
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    843,
+    184,
+    917,
+    239
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    681,
+    184,
+    838,
+    241
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    1117,
+    -173,
+    1200,
+    -58
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    1238,
+    -171,
+    1318,
+    -145
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    795,
+    -965,
+    878,
+    -849
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    870,
+    -982,
+    953,
+    -867
+   ]
+  },
+  {
+   "kind": "pitch",
+   "bbox": [
+    138,
+    -856,
+    221,
+    -740
+   ]
+  }
+ ],
+ "totals": {
+  "paved_grass_block": 692106,
+  "veg_cleared": 440631,
+  "paved_dirt": 249,
+  "excluded_plaza_court": 1656,
+  "excluded_osm_park": 26382,
+  "zebra_crossings": 35,
+  "zebra_cells": 1521
+ },
+ "top_before": {
+  "minecraft:grass_block": 720144,
+  "minecraft:stone_bricks": 44512,
+  "minecraft:gray_concrete": 34833,
+  "minecraft:red_terracotta": 33430,
+  "minecraft:light_gray_concrete": 32102,
+  "minecraft:white_concrete": 27161,
+  "minecraft:green_terracotta": 11021,
+  "minecraft:smooth_stone": 9874,
+  "minecraft:green_concrete": 9263,
+  "minecraft:cracked_stone_bricks": 8234,
+  "minecraft:smooth_sandstone": 7569,
+  "minecraft:white_terracotta": 2919,
+  "minecraft:quartz_slab": 2246,
+  "minecraft:polished_diorite_slab": 1977,
+  "minecraft:blue_concrete": 1886,
+  "minecraft:polished_andesite": 1511,
+  "minecraft:glass": 1495,
+  "minecraft:cut_sandstone_slab": 1481,
+  "minecraft:smooth_stone_slab": 777,
+  "minecraft:smooth_quartz_slab": 718
+ },
+ "cells_changed": 1132986,
+ "elapsed_s": 183.4,
+ "level_dat": {
+  "old_name": "中国海洋大学西海岸校区v8",
+  "new_name": "中国海洋大学西海岸校区v9",
+  "old_lastplayed": 1795756821626,
+  "new_lastplayed": 1795759167462,
+  "spawn": [
+   1361,
+   -47,
+   711
+  ]
+ }
+}
