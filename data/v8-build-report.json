@@ -1,0 +1,578 @@
+{
+ "world": "/home/hatch/workspace/minecraft-ouc/staging-v8/OUC-West-Coast-v8",
+ "base": "v6",
+ "note": "v8: centre line 1-wide WWGG dashed white concrete (v5 style) on all roads; main roads widened +4 (7->11, 9->13), new strip only over empty land/grass, no demolition; small roads unchanged width, centre line only, no edge line, no kerb",
+ "widths": {
+  "0": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "1": {
+   "old": 7,
+   "new": 11,
+   "type": "tertiary"
+  },
+  "2": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "3": {
+   "old": 7,
+   "new": 11,
+   "type": "tertiary"
+  },
+  "4": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "5": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "6": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "7": {
+   "old": 7,
+   "new": 11,
+   "type": "secondary"
+  },
+  "8": {
+   "old": 9,
+   "new": 13,
+   "type": "primary"
+  },
+  "9": {
+   "old": 7,
+   "new": 11,
+   "type": "tertiary"
+  },
+  "10": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "11": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "12": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "13": {
+   "old": 7,
+   "new": 11,
+   "type": "tertiary"
+  },
+  "14": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "15": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "16": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "17": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "18": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "19": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "20": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "21": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "22": {
+   "old": 7,
+   "new": 11,
+   "type": "secondary"
+  },
+  "23": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "24": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "25": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "26": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "27": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "28": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "29": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "30": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "31": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "32": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "33": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "34": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "35": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "36": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "37": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "38": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "39": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "40": {
+   "old": 4,
+   "new": 4,
+   "type": "service"
+  },
+  "41": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "42": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  },
+  "43": {
+   "old": 5,
+   "new": 5,
+   "type": "residential"
+  }
+ },
+ "totals": {
+  "kept_road": 2961,
+  "centre_white": 6563,
+  "paved": 55341,
+  "centre_grey": 6350,
+  "edge_white": 10872,
+  "veg_cleared": 7140,
+  "widen_blocked": 1378,
+  "kept_kerb": 19,
+  "skipped_structure": 841,
+  "skipped_guard": 188,
+  "skipped_oob": 1752,
+  "zebra_cells": 1521,
+  "zebra_crossings": 35
+ },
+ "per_road": {
+  "0": {
+   "kept_road": 20,
+   "centre_white": 317,
+   "paved": 350,
+   "centre_grey": 294
+  },
+  "1": {
+   "kept_road": 86,
+   "edge_white": 2010,
+   "paved": 9944,
+   "centre_white": 512,
+   "veg_cleared": 1419,
+   "centre_grey": 493,
+   "widen_blocked": 394,
+   "kept_kerb": 2
+  },
+  "2": {
+   "kept_road": 46,
+   "paved": 320,
+   "centre_white": 274,
+   "centre_grey": 264,
+   "skipped_structure": 427,
+   "skipped_guard": 13
+  },
+  "3": {
+   "kept_road": 53,
+   "edge_white": 1640,
+   "paved": 7294,
+   "centre_white": 417,
+   "skipped_oob": 1172,
+   "centre_grey": 403,
+   "widen_blocked": 82,
+   "veg_cleared": 992,
+   "skipped_guard": 2
+  },
+  "4": {
+   "kept_road": 74,
+   "paved": 628,
+   "centre_white": 506,
+   "centre_grey": 496,
+   "skipped_guard": 3,
+   "kept_kerb": 4,
+   "skipped_oob": 7
+  },
+  "5": {
+   "kept_road": 15,
+   "paved": 214,
+   "centre_white": 175,
+   "centre_grey": 160
+  },
+  "6": {
+   "kept_road": 13,
+   "paved": 112,
+   "centre_white": 94,
+   "centre_grey": 83
+  },
+  "7": {
+   "paved": 8774,
+   "veg_cleared": 811,
+   "edge_white": 1834,
+   "centre_white": 462,
+   "kept_road": 61,
+   "widen_blocked": 725,
+   "centre_grey": 455,
+   "kept_kerb": 1
+  },
+  "8": {
+   "skipped_oob": 60,
+   "edge_white": 522,
+   "centre_white": 133,
+   "paved": 2565,
+   "veg_cleared": 490,
+   "centre_grey": 128,
+   "widen_blocked": 78,
+   "kept_road": 10
+  },
+  "9": {
+   "skipped_oob": 406,
+   "widen_blocked": 54,
+   "edge_white": 1670,
+   "paved": 7612,
+   "centre_white": 420,
+   "kept_road": 214,
+   "veg_cleared": 757,
+   "centre_grey": 415,
+   "kept_kerb": 1
+  },
+  "10": {
+   "kept_road": 9,
+   "paved": 115,
+   "centre_white": 104,
+   "centre_grey": 98,
+   "skipped_structure": 110
+  },
+  "11": {
+   "kept_road": 35,
+   "paved": 263,
+   "centre_white": 199,
+   "centre_grey": 193
+  },
+  "12": {
+   "kept_road": 66,
+   "paved": 78,
+   "centre_white": 64,
+   "centre_grey": 61
+  },
+  "13": {
+   "kept_road": 1461,
+   "edge_white": 1656,
+   "paved": 6744,
+   "centre_white": 417,
+   "centre_grey": 411,
+   "widen_blocked": 25,
+   "veg_cleared": 914,
+   "kept_kerb": 1
+  },
+  "14": {
+   "paved": 104,
+   "centre_white": 87,
+   "kept_road": 7,
+   "centre_grey": 81,
+   "skipped_structure": 14
+  },
+  "15": {
+   "kept_road": 24,
+   "paved": 339,
+   "centre_white": 309,
+   "centre_grey": 305,
+   "kept_kerb": 4
+  },
+  "16": {
+   "kept_road": 162,
+   "skipped_oob": 86,
+   "centre_white": 120,
+   "centre_grey": 113,
+   "paved": 111
+  },
+  "17": {
+   "centre_white": 109,
+   "paved": 130,
+   "centre_grey": 105,
+   "kept_road": 19
+  },
+  "18": {
+   "paved": 84,
+   "centre_white": 67,
+   "kept_road": 9,
+   "centre_grey": 63
+  },
+  "19": {
+   "kept_road": 7,
+   "paved": 196,
+   "centre_white": 178,
+   "centre_grey": 175
+  },
+  "20": {
+   "kept_road": 77,
+   "centre_white": 42,
+   "paved": 44,
+   "centre_grey": 38,
+   "skipped_guard": 4
+  },
+  "21": {
+   "kept_road": 29,
+   "centre_white": 71,
+   "paved": 71,
+   "centre_grey": 68
+  },
+  "22": {
+   "paved": 7997,
+   "veg_cleared": 1757,
+   "edge_white": 1540,
+   "centre_white": 386,
+   "centre_grey": 384,
+   "skipped_guard": 6,
+   "widen_blocked": 20,
+   "kept_road": 22
+  },
+  "23": {
+   "kept_road": 17,
+   "paved": 66,
+   "centre_white": 50,
+   "centre_grey": 49,
+   "kept_kerb": 2
+  },
+  "24": {
+   "kept_road": 18,
+   "paved": 59,
+   "centre_white": 46,
+   "centre_grey": 44,
+   "skipped_structure": 11,
+   "kept_kerb": 2
+  },
+  "25": {
+   "kept_road": 4,
+   "centre_white": 11,
+   "paved": 21,
+   "centre_grey": 10
+  },
+  "26": {
+   "centre_white": 13,
+   "paved": 10,
+   "kept_kerb": 1,
+   "centre_grey": 10,
+   "kept_road": 7,
+   "skipped_oob": 21
+  },
+  "27": {
+   "kept_road": 37,
+   "paved": 56,
+   "centre_white": 52,
+   "centre_grey": 50,
+   "skipped_guard": 4,
+   "skipped_structure": 27
+  },
+  "28": {
+   "kept_road": 70,
+   "paved": 47,
+   "centre_white": 42,
+   "centre_grey": 38,
+   "skipped_guard": 105,
+   "skipped_structure": 5
+  },
+  "29": {
+   "centre_white": 22,
+   "paved": 22,
+   "kept_road": 42,
+   "centre_grey": 19
+  },
+  "30": {
+   "kept_road": 61,
+   "paved": 40,
+   "centre_white": 34,
+   "centre_grey": 34,
+   "skipped_guard": 22
+  },
+  "31": {
+   "kept_road": 58,
+   "paved": 28,
+   "centre_white": 28,
+   "centre_grey": 25
+  },
+  "32": {
+   "kept_road": 19,
+   "paved": 32,
+   "centre_white": 30,
+   "centre_grey": 30
+  },
+  "33": {
+   "kept_road": 7,
+   "paved": 28,
+   "centre_white": 27,
+   "centre_grey": 26
+  },
+  "34": {
+   "kept_road": 9,
+   "centre_white": 68,
+   "paved": 78,
+   "centre_grey": 66
+  },
+  "35": {
+   "centre_white": 75,
+   "paved": 80,
+   "kept_road": 9,
+   "centre_grey": 74
+  },
+  "36": {
+   "kept_road": 6,
+   "paved": 50,
+   "centre_white": 34,
+   "centre_grey": 32
+  },
+  "37": {
+   "centre_white": 32,
+   "paved": 49,
+   "kept_road": 6,
+   "centre_grey": 30,
+   "skipped_guard": 7
+  },
+  "38": {
+   "kept_road": 5,
+   "centre_white": 12,
+   "paved": 3,
+   "centre_grey": 12,
+   "skipped_guard": 6,
+   "skipped_structure": 114
+  },
+  "39": {
+   "kept_road": 29,
+   "centre_white": 17,
+   "paved": 16,
+   "centre_grey": 16
+  },
+  "40": {
+   "kept_road": 11,
+   "paved": 10,
+   "centre_white": 16,
+   "centre_grey": 16,
+   "skipped_guard": 9,
+   "skipped_structure": 133
+  },
+  "41": {
+   "paved": 104,
+   "centre_white": 95,
+   "kept_road": 3,
+   "centre_grey": 94
+  },
+  "42": {
+   "paved": 271,
+   "centre_white": 265,
+   "kept_road": 5,
+   "centre_grey": 264,
+   "kept_kerb": 1,
+   "skipped_guard": 7
+  },
+  "43": {
+   "centre_white": 131,
+   "paved": 182,
+   "kept_road": 19,
+   "centre_grey": 125
+  }
+ },
+ "cells_changed": 60222,
+ "elapsed_s": 42.0,
+ "level_dat": {
+  "old_name": "中国海洋大学西海岸校区v6",
+  "new_name": "中国海洋大学西海岸校区v8",
+  "old_lastplayed": 1795744194715,
+  "new_lastplayed": 1795756821626,
+  "spawn": [
+   1361,
+   -47,
+   711
+  ]
+ }
+}
